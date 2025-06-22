@@ -1,0 +1,2346 @@
+Sayı: 2021/21
+
+Senato Tarihi: 28.06.2021
+
+DOĞUŞ ÜNİVERSİTESİ
+LİSANSÜSTÜ TEZ VE
+PROJE YAZIM
+KILAVUZU
+
+TC.
+DOĞUŞ ÜNİVERSİTESİ
+LİSANSÜSTÜ EĞİTİM
+ENSTİTÜSÜ
+
+LİSANSÜSTÜ
+TEZ VE PROJE YAZIM
+KILAVUZU
+
+İstanbul, 2021
+
+İÇİNDEKİLER
+Sayfa No.
+
+GİRİŞ…………………………………………………………………………...
+
+1
+
+BİRİNCİ BÖLÜM
+TEMEL İLKELER VE KAVRAMLAR
+1.1.Temel İlkeler …………………………………………………………….
+1.2. Temel Kavramlar ……………………………………………………....
+1.2.1 Proje / Tez Danışmanı …………………………………………….
+1.2.2 Yüksek Lisans Projesi ………………………………………………
+1.2.3 Tez …………………………………………………………………..
+1.2.3.1 Yüksek Lisans Tezi …………………………………………….
+1.2.3.2 Doktora Tezi ……………………………………………………
+1.2.3.2.1.Tez Önerisi ………………………………………………
+1.2.3.2.2.Rapor ve Sunuşu …………………………………………
+
+1
+3
+3
+3
+4
+5
+6
+6
+7
+
+İKİNCİ BÖLÜM
+GENEL BİÇİM ŞARTLARI VE YAZIM KURALLARI
+2.1. Genel Biçim …………………………………………………………….
+2.1.2. Sayfa Düzeni ……………………………………………………….
+2.1.3. Satır Aralıkları ve Yazı Düzeni …………………………………….
+2.2. Proje ve Tez Sayfa Düzenlenişi ……………………………………….
+2.3. Ön Kısım ……………………………………………………………….
+2.3.1. Dış Kapak …………………………………………………………..
+2.3.2.. İç Kapak……………………………………………………………
+2.4. Yemin Metni…………………………………………………………….
+2.5. Proje Değerlendirme Tutanağı ve Tez Tutanağı ………………………..
+2.6. Özet ……………………………………………………………………..
+2.7. Abstract ………………………………………………………………...
+2.8. İçindekiler ……………………………………………………………...
+2.9. Tablolar ve Şekiller Listesi ……………………………………………
+2.10. Kısaltmalar …………………………………………………………...
+2.11. ORCID ID Temini ……………………………………………………
+
+9
+10
+11
+12
+13
+13
+14
+15
+15
+15
+15
+16
+16
+17
+17
+
+ÜÇÜNCÜ BÖLÜM
+METİN KISMI
+3.1. Bölüm Numaraları ve Başlık Yazma Biçimi …………………………
+3.2. Giriş …………………………………………………………………….
+3.3. Diğer Metin Bölümleri ………………………………………………...
+3.3.1. Kuralsal Altyapıya ve Alana Dair Tanıtıcı Bölümler ………………
+3.3.2. Gözlem ve Deneye Dayalı Olmayan Çalışmalara Özel Bölümler …
+3.4. Kaynak Gösterimi ……………………………………………………..
+3.4.1. IEEE Kaynak Gösterimi ……………………………………………
+3.4.2. Yazar Tarih Sistemi Metin İçi Gönderme (APA)………………….
+3.4.2.1. Kaynakça İle Metin İçi Göndermelerin Uyumu………………..
+3.5. Tablo ve Şekil İsimleri ………………………………………………...
+3.6. Sonuç …………………………………………………………………...
+3.7. Son Kısım ………………………………………………………………
+3.7.1. Kaynakça …………………………………………………………...
+3.7.2. Ekler ………………………………………………………………..
+3.7.3. Özgeçmiş …………………………………………………………..
+
+18
+18
+19
+19
+19
+20
+20
+21
+22
+25
+27
+27
+27
+28
+29
+
+3.8. Araştırmada Yapılan Başlıca Hatalar ve Etik Sorunlar………………….
+3.9. Mezuniyet Öncesi………………………………………………………..
+3.9.1. Jüri Seçimi Öncesi Tezin Enstitü Yönetimine Sunulması………….
+3.9.2. Proje Teslimi Öncesi Projenin Teslim Aşamaları…………………..
+3.10. Mezuniyet Aşaması…………………………………………………...
+3.10.1. Mezuniyet Aşamasında Tezin Enstitü Yönetimine Sunulması……
+3.10.2. Mezuniyet Aşamasında Proje……………………………………
+
+29
+31
+31
+31
+32
+32
+33
+
+EKLER…………………………………………………………………………
+Ek-1: Yemin Metni Örneği……………………………………………………..
+Ek-2a: Tez Yüksek Lisans Sınavı Tutanağı…………………………………….
+Ek-2b: Proje Değerlendirme Tutanağı………………………………………….
+Ek-3: Türkçe Özet ve Anahtar Kelimeler Örneği………………………………
+Ek-4: İngilizce Özet ve Anahtar Kelimeler Örneği……………………………..
+Ek-5: İçindekiler Sayfası Örneği………………………………………………..
+Ek-6: Tablolar Listesi Örneği…………………………………………………...
+Ek-7: Şekiller Listesi Örneği……………………………………………………
+Ek-8: Kısaltmalar Listesi Örneği………………………………………………..
+Ek-9: IEEE Kaynakça Örneği…………………………………………………..
+Ek-10: APA 6.0. Kaynakça Örneği……………………………………………
+Ek-11: Özgeçmiş Örneği………………………………………………………..
+Ek-12: Tezlerin Yükseköğretim Kurumuna İletilmesi………………………….
+Ek-13: Kompakt Disklerin Hazırlanması……………………………………….
+
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+47
+50
+51
+53
+
+SIKÇA SORULAN SORULAR………………………………………………
+
+55
+
+GİRİŞ
+Doğuş Üniversitesi Lisansüstü Eğitim Enstitüsü’nün yüksek lisans ve doktora
+öğrencilerinin proje ve tez yazımında uymaları gereken kurallara standart getirmek
+amacıyla hazırlanan bu kılavuz, akademik çalışmalar için hem bilimsel yöntem hem de
+şekil ve içerik şartlarına vurgu yapmaktadır. Öğrencilerimiz, bu kılavuzu ve Doğuş
+Üniversitesi Lisansüstü Eğitim-Öğretim Yönetmeliğini dikkatle okumak ve gereklerini
+yerine getirmek durumundadır. Yüksek Lisans Projesi, Yüksek Lisans Tezi ve Doktora
+Tezi şekil bakımından bu kılavuzda verilen aynı şartlara tabi olsa da, her üç çalışma türü
+de süre, kapsam ve beklentiler bakımından farklılıklar göstermektedir. Türkçe
+programlarda kayıtlı öğrenciler tezlerini Türkçe olarak hazırlayabilirler. Sadece öğrenim
+dili İngilizce olan programlarda tezin tamamı İngilizce olarak hazırlanmalıdır. Tezlerin
+hazırlanma sürecinde bu kılavuz bir rehber niteliğinde yol göstermesi amacıyla
+tasarlanmıştır. Bununla birlikte, öğrencilerimizin danışmanları ile düzenli iletişim halinde
+olmaları tezin başarılı olması açısından en önemli unsurlardan birisidir.
+1. Temel İlkeler ve Kavramlar
+1.1 Temel İlkeler
+Tez yazımı sırasında öğrencilerimiz akademik etik kurallara sıkı sıkıya bağlı
+kalmalıdır. Öğrenci projesini veya tezini tamamen kendisi hazırlamalıdır. Kaynak
+gösterme (atıfta bulunma) ve alıntı yapma kurallarına kesinlikle uyulmalıdır.
+Proje ya da tez hangi düzeyde olursa olsun okuruna yargıda bulunma ve yorum
+yapma olanağı verecek nesnellikte yazılmalı, yazarın görüş ve yorumları şüpheye yer
+bırakmayacak netlikte çalışmanın bütünü içinde belli ve anlaşılır olmalıdır. Çalışmanın
+tamamı üçüncü tekil şahıs üzerinden edilgen cümle yapısı ile anlatılmalıdır. Teorik
+kısımlarda ve literatür taramasında yazar kendi kişisel görüşlerini dile getirmekten
+kaçınmalıdır. Özellikle literatür bilgisi aktarılırken sadece yazar bağlantı ve açıklama
+cümleleri
+
+kurabilir,
+
+bunların
+
+içerisine
+
+kendi
+
+görüşlerini
+
+veya
+
+düşüncelerini
+
+eklememelidir. Yazarın bu tip görüş ve yorumlarını, araştırma sonuçları ekseninde
+ağırlıklı olarak sonuç bölümünde belirtmesi gerekmektedir. Ayrıca gereksiz bilgilere yer
+
+1
+
+vererek çalışmanın hacmini arttırmaya ya da bütünlüğünü bozacak ölçüde eksiltmeye
+gitmekten kaçınılmalıdır.
+Bir projenin / tezin en az kaç sayfa olması gerektiğine dair genel bir kural / kalıp
+yoktur; çalışmanın içeriği ne kadar gerektiriyorsa sayfa sayısı da o kadar olacağı
+unutulmamalıdır. İyi çalışma yeterince arıtılmış olandır. Bununla birlikte dünyada genel
+kabul görmüş yazılı olmayan kurallar da bulunmaktadır. Tezdeki sayfa sayısının bir kriter
+olarak temel alındığı durumlar olduğu gibi, çoğunlukla kullanılan kaynak sayısının yeterli
+sayıda ve güncel olması en önemli kriterlerin başında gelmektedir.
+Tez ve projeler A4 (21 x 29,7 cm) boyutunda 80 g/m2 beyaz, birinci sınıf hamur
+kâğıda özellikleri bozulmadan çoğaltılmalıdır. Tez ve projelerin kopyaları net ve okunaklı
+olmalıdır. Tez veya proje çalışmasında, yazarın dikkat etmesi gereken bazı konular
+aşağıda maddeler halinde sıralanmıştır:
+•
+
+Atıfta bulunulan tüm eserlerin dijital kopyası veya ilgili sayfalarının fotokopisi
+yazar tarafından mezuniyet işlemleri gerçekleşene kadar saklanmalıdır. Üniversite
+Etik Kurulu veya Enstitü Yönetim Kurulu gerek duyduğu durumlarda kaynakların
+tamamını görmek isteyebilir. Bu sebeple, ulaşılamayan kaynaklar çalışmada asla
+yer almamalı, kaynakçada belirtilen her kaynak da ulaşılabilir durumda olmalıdır.
+
+•
+
+Anket ve mülakat soruları için mutlaka Doğuş Üniversitesi Etik Kurulu’ndan izin
+alınmalıdır. Etik Kurul izni çıkmamış olan anketlerin uygulamaya konulmaması
+gerekmektedir. İlgili kurumlarla olan yazışmalar da resmi kanallar aracılığı ile
+gerçekleşmeli ve tüm iletişim yazılı olmalıdır. Öğrencilerimizin anket
+uygulayacağı kurum ve firmalara Enstitümüz aracılığı ile başvuru yapması
+gerekmektedir. Öğrencilerimiz etik kurul başvuru formunun içerisinde bulunan
+anketin uygulanacağı yerler bölümüne on adet kuruma kadar bir liste yazabilir.
+
+•
+
+Yararlanılan kaynakların tamamı çalışmada gösterilmelidir.
+
+•
+
+Kaynakça bölümünde verilen tüm kaynaklara metin içinde atıf verilmesine dikkat
+edilmelidir.
+
+•
+
+Özgün fikir, yaklaşım ve yöntemlerden sahipleri anılmaksızın söz edilmemelidir.
+Önsöz bölümü sadece tezlerin savunma kopyalarında yer alabilir; YÖK’ün Ulusal
+Tez Merkezi’ne yüklenecek olan kopyada önsöz bölümü yer almamalıdır ve tez
+
+2
+
+tutanağının CD-ROM olarak teslim edilenin 1 (bir) tanesinde KVKK gereği,
+kişisel veriler (ıslak imza ve tez yazarına ait e-mail, telefon vb.) yer almamalıdır.
+•
+
+Çalışma boyunca çok kısa veya tek cümlelik paragraflardan kaçınılmalıdır. Her
+paragrafın hem kendi içerisinde hem de yazılan kısımla anlam bütünlüğü olacak
+şekilde tasarlanmasına dikkat edilmelidir.
+1.2.Temel Kavramlar
+1.2.1.Proje / Tez Danışmanı
+Proje / Tez danışmanı, çalışmanın konu seçme aşamasından savunulmasına kadar
+
+olan tüm süreçte deneyimi, bilgi düzeyi ve rol model oluşuyla öğrenciyi yönlendiren ve
+akademik ilkeler bakımından denetleyen atanmış öğretim üyesidir.
+Bunun belirli bir ölçütü olmamakla birlikte danışman, öğrencisine programını
+zamanında bitirmesini sağlayacak şekilde çalışmanın gerektirdiği ilgiyi göstermek ve
+zaman ayırmakla yükümlüdür. Öğretim üyelerimizin danışmanlık yaptıkları öğrencileri
+için belirledikleri ofis saatleri öğrenilmeli ve öğrencilerimiz tarafından bu sürelerde
+öğretim üyeleri ile düzenli olarak iletişim kurulmalıdır. Ayrıca belirli aralıklarla
+öğrencilerimiz çalışma dosyalarını internet üzerinden danışman hocalarına iletmeli ve
+ilerlemelerini kayıt altına almalıdır. Tüm öğrencilerimizin düzenli olarak danışmanları ile
+mail üzerinden, telefonla veya yüz yüze iletişim halinde olmaları tezin başarıyla
+tamamlanması açısından büyük önem taşımaktadır.
+1.2.2.Yüksek Lisans Projesi
+Tezsiz Yüksek Lisans Programının amacı, ilgili alanda öğrencinin kuramsal ve
+uygulamaya dönük bilgilerini geliştirmek ve alanında derinlemesine bir bakış
+kazanmasını sağlayarak uygulamaya yönelik özgün çözümler üretme becerisini
+kazandırmaktır. Proje, öğrencinin kazandığı bilgiyi uygulamada kullanma becerisini
+kanıtlamak amacıyla uygulama sorununu çözmeye veya alternatif öneriler geliştirmeye
+yönelik çalışmasını içeren yazılı bir rapordur.
+
+3
+
+Öğrenci, derslerini başararak ve kabul edilebilir bir Yüksek lisans projesini sunarak
+bu düzeye ulaştığını kanıtlar. Yüksek lisans projesi için asgari beklenti, belli bir alanda
+var olan olguların özgün ve ayrıntılı bir şekilde tanımlanıp belirlenmesi (literatür
+çalışması) ve uygulamaya hangi çözüm veya yeniliklerin getirilebileceğinin araştırma ile
+ortaya konulmasıdır.
+Yukarıda sözü edilen özgün uygulamanın gerçekleştirilip projeye adapte edilmesi,
+olgular arası ilişkilerin araştırılması, yeni bilimsel bilgiler üretilmesi, hatta kuramsal
+modeller oluşturulması vb. gibi daha kapsamlı çalışmalar söz konusu projenin niteliğini
+daha da üst düzeylere taşımasını sağlamakta yararlı olacaktır.
+Proje İçeriği Örneği
+•
+
+Kapak Sayfaları (Dış ve İç Kapak)
+
+•
+
+Proje onay sayfası
+
+•
+
+Özet / Abstract
+
+•
+
+İçindekiler
+
+•
+
+Tablo Listesi
+
+•
+
+Şekiller Listesi
+
+•
+
+Kısaltmalar
+
+•
+
+Giriş
+
+•
+
+Proje Metni (Metin Bölümleri)
+
+•
+
+Sonuç
+
+•
+
+Kaynakça
+
+•
+
+Ekler
+1.2.3.Tez
+Tezin konusu ve araştırmaya yönlendiren problemin belirlenmesi gerekmektedir.
+
+Belirlenen konu hakkında yapılacak olan literatür taraması hem probleme olan soruların
+netleşmesini sağlar, hem de çalışmanın özgünlüğünü gösterir.
+
+4
+
+Tezin
+
+teknik
+
+ayrıntıları;
+
+Araştırmanın
+
+Amacı”,
+
+Araştırmanın
+
+Kapsamı”
+
+“Araştırmanın Modeli, “Sınırlılıkları”, “Araştırmanın Hipotezi / Sorusu”, “Veri Toplama
+Araçları”, “Veri Toplama Araçlarının Geçerliği ve Güvenilirliği”, “Verilerin
+Toplanması” “Verilerin Analiz Yöntemleri”, “Araştırmada Kullanılan İstatiksel
+Yöntemler” vb. alanlarda tüm açıklığıyla belirli bir sistem ve biçim kullanılarak tez
+açıklanmaya çalışılmalıdır.
+1.2.3.1.Yüksek Lisans Tezi
+Tezli yüksek lisans programının amacı, ilgili alanda öğrencinin kuramsal ve
+uygulamaya dönük bilgilerini geliştirmek, bilimsel araştırma yaparak yeni bilgiler
+üretme, bilgiyi değerlendirme ve yorumlama yeteneğini, sorunlara ve çözümlerine
+yönelik bir bilimsel bakış becerisini kazandırmaktır. Öğrenci, derslerini başararak ve
+kabul edilebilir bir yüksek lisans tezi sunarak bu düzeye ulaştığını kanıtlamış olmaktadır.
+Yüksek lisans tezi, öğrencinin edinmiş olduğu kuramsal ve uygulamaya dönük bilgi
+ve becerilerini kullanarak yeni bilgiler üretmek, değerlendirmek ve yorumlamak amacıyla
+yaptığı bilimsel bir araştırmayı içeren yazılı olarak sunulan bir bilimsel çalışmadır.
+Yüksek lisans tezi için asgari beklenti, tezin belli bir alana ait bilimsel bir araştırmaya
+dayalı olması, olgular arasındaki ilişkilerin araştırılması, sorunlarının belirlenmesi ve
+bunlara özgün çözüm ve öneriler getirilmesidir. Yüksek lisans tezinin ulusal veya
+uluslararası düzeyde bir bilimsel makale üretebilecek standartlara sahip olması arzu
+edilen bir düzeydir. Yüksek lisans projesi ile karşılaştırıldığında yüksek lisans tezinin
+nitelik ve akademik bakımdan ayırt edici özelliği tezin bir bilimsel araştırmaya
+dayandırılmasıdır. Bu araştırmasının kalitatif veya kantitatif tekniklerle gerçekleştirilmesi
+ve ortaya çıkan bulguların nesnel bir şekilde tez içerisinde okuyucuya sunulması
+gerekmektedir.
+
+5
+
+1.2.3.2 Doktora Tezi
+Doktora programının amacı, öğrenciye bağımsız bilimsel araştırma yapabilmesini,
+bilimsel olayları irdeleyerek yorum çıkarma, yeni bilgiler ve özgün alternatif çözümler
+üretebilmesini sağlamak için gereken kuramsal ve uygulamalı en derin ve geniş bilimsel
+bilgi ve becerileri kazandırmaktır. Süreç başarıyla sonuçlanırsa öğrenci alanının Doktoru
+kabul edilmektedir.
+Öğrenci, derslerini başararak ve kabul edilebilir bir doktora tezini sunarak bu düzeye
+ulaştığını kanıtlar. Doktora Tezi için asgari beklenti, bilime yenilik getirmesi, yeni bir
+bilimsel
+
+yöntem
+
+uygulanabilmesinin
+
+geliştirilmesi
+
+ya
+
+sağlanmasıdır.
+
+da
+
+bilinen
+
+Doktora
+
+bir
+
+tezi,
+
+yöntemin
+yüksek
+
+yeni
+
+lisans
+
+alanlara
+tezi
+
+ile
+
+karşılaştırıldığında; nitelik bakımından ayırt edici özelliği, doktora tezinin spesifik bir
+alanda yapılan derin bir bilimsel araştırmaya dayandırılmasıdır. Doktora tezinin en az bir
+bilimsel makale üretebilecek düzeyde olması ve ilgili literatüre teorik veya pratik anlamda
+katkı sağlaması esastır.
+1.2.3.2.1.Tez Önerisi
+Yeterlik sınavında başarılı bulunan öğrenci için enstitü anabilim dalı başkanının
+önerisi, enstitü yönetim kurulu onayı ile bir ay içinde Anabilim Dalı Başkanlığı tarafından
+en az üç öğretim üyesinden oluşan bir Tez İzleme Komitesi oluşturulur. Doktora yeterlik
+sınavını başarı ile tamamlayan öğrenci, en geç altı ay içinde, yapacağı araştırmanın
+başlığını, konusunu, amacını, yöntemini ve çalışma planını kapsayan tez önerisi raporunu
+Tez İzleme Komitesi önünde bir saat içerisinde sözlü olarak savunması gerekmektedir.
+Tez önerisinde genel olarak bulunması gereken temel başlıkları aşağıdaki gibi sıralamak
+mümkündür:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Önerilen Tezin Adı
+Konusu
+Amacı
+Önemi
+Yöntemi
+Kavramsal Çerçeve
+Kapsam ve Sınırlılıklar
+Veri Toplama Tekniği
+Kaynakça
+
+6
+
+1.2.3.2.2.Rapor ve Sunuşu
+Doktora yeterlik sınavını başarı ile tamamlayan öğrenci, en geç altı ay ve ilgili
+dönemin yönetmelikte belirtilen zaman dilimi içerisinde, yapacağı araştırmanın başlığını,
+konusunu, amacını, yöntemini ve çalışma planını kapsayan tez önerisini tez izleme
+komitesi önünde sözlü olarak savunur. Öğrenci savunma talebini, danışmanınca
+onaylanan dilekçesi ile enstitüye bildirir. Öğrenci, tez önerisi ile ilgili yazılı raporunu
+sözlü sunumundan en az on beş gün önce tez izleme komitesi üyelerine dağıtır. Süresi
+içerisinde tez önerisini yazılı olarak vermeyen ve/veya sunum yapmayan öğrenci ilgili
+savunmadan başarısız sayılır.
+Tez önerisi kabul edilen öğrenci için tez izleme komitesi, Ocak-Haziran ve
+Temmuz- Aralık ayları arasında birer defa olmak üzere yılda en az iki kez toplanır.
+Öğrenci, toplantı tarihinden en az bir ay önce komite üyelerine yazılı bir rapor sunar. Bu
+raporda o ana kadar yapılan çalışmaların özeti ve bir sonraki dönemde yapılacak çalışma
+planı belirtilir. Öğrencinin tez çalışması, komite tarafından başarılı veya başarısız olarak
+belirlenir. Komite kararı, izleyen üç iş günü içinde anabilim/anasanat dalı aracılığıyla
+Enstitüye iletilir. Başarılı sonuçlanan tez izleme komitesi toplantılarının ardından en geç
+15 gün içinde tez danışmanı tarafından hazırlanan ilerleme raporu enstitüye iletilir Komite
+tarafından üst üste iki kez veya aralıklı olarak üç kez başarısız bulunan öğrencinin
+Üniversite ile ilişiği kesilir.
+
+7
+
+Enstitüye teslim edilecek raporlarda aşağıdaki bilgilerin olması gerekmektedir:
+•
+
+Öğrencinin Adı Soyadı
+
+•
+
+Anabilim ve Bilim Dalı
+
+•
+
+Rapor Dönemi
+
+•
+
+Tez Danışmanı ve Komite Üyeleri
+
+•
+
+Tez Önerisinin Kabul Tarihi
+
+•
+
+Tezin Konusu
+
+•
+
+Araştırma Yöntemi
+
+•
+
+Rapor Dönemindeki Gelişmeler
+
+•
+
+Gelecek Rapor Dönemi Hedefleri
+Doktora öğrencisinin tez savunma sınavına girebilmesi için, tezi ile ilgili, ilk yazarının
+
+kendisinin olduğu en az bir makalesini, ulusal veya uluslararası hakemli bir dergide
+yayımlaması veya yayıma kabul yazısını enstitü yönetim kuruluna sunması gerekir. Tez
+danışmanları bu yayında ortak yazar olarak yer alabilir ancak eserde, tezde emeği veya
+katkısı olmayan bir yazar ismi bulunmamalıdır. İlgili yayının Doğuş Üniversitesi adresli
+olması şartı aranır.
+
+8
+
+İKİNCİ BÖLÜM
+GENEL BİÇİM ŞARTLARI ve YAZIM KURALLARI
+
+2.1.Genel Biçim
+•
+
+Yazım için standart 75–80 g/m2, 21 cm x 29,7 cm ebatlarında A-4 kâğıdının bir
+yüzü kullanılmalıdır.
+
+•
+
+Çalışma metnini, Lisansüstü Eğitim Enstitüsü öğrencileri elektronik ortamda, MS
+Windows tabanlı MS Word yazım programı veya benzeri bir yazılım kullanılarak
+hazırlamalıdır.
+
+•
+
+Tablo, grafik ve şekiller için Excel veya danışmanın önereceği bir diğer program
+kullanılabilir.
+
+•
+
+Yazı tipi olarak üç font kullanılabilir: Times New Roman, Arial ve Calibri eğer
+tüm yazım boyunca Times New Roman (TNR) kullanılacak ise, yazı boyutu 12
+puntodur. Eğer Arial veya Calibri fontları kullanılacak ise tüm yazı fontları -1
+olarak hesaplanmalıdır. Örneğin Times New Roman’da normal bir metin 12 iken,
+Arial veya Calibri tercih edilecek ise 11 punto kullanılmalıdır.
+
+•
+
+Ayrı punto ve koyu yazım biçimleri yeri geldiğinde (Dış Kapak, İç Kapak,
+Dipnotlar, Bölüm Başlıkları gibi) Kılavuz içinde açıklanacaktır.
+
+•
+
+Tüm metin rengi siyah olmalıdır.
+
+•
+
+Proje ya da Tez yazımında Türkçe’nin düzgün ve doğru kullanılması son derece
+önemlidir. Bu konuda Türk Dil Kurumu’nun güncel Yazım Kılavuzu esas
+alınmalıdır.
+
+9
+
+2.1.2.Sayfa Düzeni
+Sayfa yapısı üst, alt ve sağdan 3 cm ve sol taraftan 3,5 cm boşluk bırakılacak şekilde
+ayarlanırken üst bilgi ve alt bilgi (1,3 cm) olarak ayarlanmalıdır.
+
+10
+
+2.1.3.Satır Aralıkları ve Yazı Düzeni
+•
+
+Metin hizalaması sayfanın iki yanına yaslanmış ve Sol (0 cm) Sağ (0 cm) olarak
+yazılmalıdır.
+
+•
+
+Satır başı, Özel (ilk satır) Değer (1,25 cm) içerden başlamalıdır.
+
+•
+
+Paragraf aralığı Önce (0nk) Sonra (6nk) olarak ayarlanmalıdır.
+
+•
+
+Satır aralıkları 1,5 satır olmalıdır.
+
+•
+
+Bir paragrafın ilk cümlesi sayfa sonuna ya da son cümlesi sayfa başına
+konulmamalıdır.
+
+•
+
+Dipnotlarda ise satır aralığı (tek) ve 10 punto yazımı kullanılmalıdır.
+
+11
+
+2.2.Proje ve Tez Sayfa Düzenlenişi
+Proje veya Tez çalışması; Ön Kısım, Metin Kısmı ve Son Kısım olmak üzere üç
+kısımdan oluşur. Bu kısımların sayfa sıralaması aşağıda verildiği gibidir:
+
+Ana Bölümler
+
+ÖN KISIM
+
+METİN KISMI
+
+Sayfaların Sırası
+
+Sayfa Numaraları
+
+DIŞ KAPAK
+İÇ KAPAK
+YEMİN METNİ Sayfası
+Proje / Tez Sınav Tutanağı
+ÖZET
+ABSTRACTS
+İÇİNDEKİLER
+TABLOLAR LİSTESİ
+ŞEKİLLER LİSTESİ
+KISALTMALAR
+SÖZLÜK
+GİRİŞ
+DİĞER BÖLÜMLER
+SONUÇ BÖLÜMÜ
+
+Gösterilmez
+Gösterilmez
+Gösterilmez
+Gösterilmez
+Gösterilmez
+Gösterilmez
+Roma rakamları (i) ile
+İçindekiler sayfasından itibaren
+gösterilmeye başlanır ve metin
+kısmına kadar devam eder
+
+1 ile başlar ve tez / proje sonuna
+kadar devam eder
+
+KAYNAKLAR
+SON KISIM
+
+EKLER
+ÖZGEÇMİŞ
+
+İÇİNDEKİLER sayfasından itibaren sayfa numaralama küçük Roma rakamı “i” ile
+sayfa ortasında gösterilmeye başlanır;
+Metin Kısmında ise GİRİŞ bölümünden 1 ile sayfa ortasından başlar ve (1, 2, 3,…)
+tipinde rakamlarla kesintisiz olarak son kısımdaki ÖZGEÇMİŞ sayfasının sonuna kadar
+devam etmelidir. Tüm sayfa numaraları, sayfanın altına ortalanarak konulmalıdır.
+
+12
+
+2.3.Ön Kısım
+2.3.1.Dış Kapak
+
+13
+
+Kapak sayfasında; Üniversitenin, Enstitünün, Anabilim Dalının, Bilim Dalının adları,
+proje veya tezin adı, hangi tür (proje / tez) çalışma olduğu, hazırlayanın adı ve soyadı ile
+savunulduğu yer (İstanbul) ve yılı bulunur. Öğrencinin adı ve soyadında kısaltma
+yapılmamalıdır.
+2.3.2.İç Kapak
+İç kapak uyulması gereken sayfa düzeni dış kapağın sayfa düzeni ile aynıdır. Ancak,
+iç kapakta, dış kapaktaki bilgilere ek olarak öğrencinin adı ve soyadının bulunduğu blokta
+öğrenci numarasına da yer verilir. Öğrenci numarasının hemen altında ORCID ID yer
+almalıdır. Sayfaya danışman bloğu eklenerek buraya danışmanın unvanı ile kısaltma
+yapılmadan yazılmalıdır.
+
+14
+
+2.4.Yemin Metni
+Yemin metninde şu ifadeler yer alır:
+Yüksek Lisans Projesi / Tezi - Doktora Tezi olarak sunduğum “ .................. ” başlıklı
+bu çalışmanın, bilimsel ahlak ve geleneklere uygun şekilde tarafımdan yazıldığını, bu
+tezdeki bütün bilgileri akademik ve etik kurallar içinde elde ettiğimi, yararlandığım
+eserlerin tamamının kaynaklarda gösterildiğini ve çalışmamın içinde kullanıldıkları her
+yerde bunlara atıf yapıldığını, patent ve telif haklarını ihlal edici bir davranışımın
+olmadığını belirtir ve bunu onurumla doğrularım. Tarih – İmza.
+Örnek için bkz. Ek-1: Yemin Metni.
+2.5.Proje Değerlendirme Tutanağı ve Tez Sınav Tutanağı
+Proje danışman değerlendirmesi / Tez savunma sınavından başarı ile geçtikten sonra
+çalışmaların Enstitüye sunulan nüshalarında yer alır (Bkz. Ek-2a ve 2b). Bu sayfa Enstitü
+Öğrenci İşlerinden veya enstitü web sayfasından temin edilebilir.
+2.6.Özet
+•
+
+Özet, araştırmanın amacını, kurgusunu, yöntemini, bulgularını ve çalışmanın
+sonucunu olabildiğince yalın bir şekilde anlatan, 200– 250 kelimeden oluşur.
+
+•
+
+Özette anahtar kelimeler yer alır. Bu kelimeler çalışmayı yansıtıcı ve özünü temsil
+edici nitelikte terimlerden oluşur (bkz. Ek-3). Anahtar kelime sayısı en az üç, en
+fazla beş adet olmalıdır.
+
+•
+
+Çalışmanın başlığı ve özet eser hakkında fikir veren ilk kısımlardır; bu nedenle
+bu kısımlara çalışmanın en az diğer bölümleri kadar özen gösterilmelidir.
+
+•
+
+Çalışmanın bitirilmiş halinden bahsedildiği için geçmiş zamanda yazılmalıdır.
+Gelecek zaman ekleri kullanılmamalıdır.
+2.7.Abstract
+Türkçe özet ve anahtar kelimelerin çevirisinden oluşur (bkz. Ek-4). Çeviri mutlaka
+
+hatasız bir şekilde gerçekleştirilmeli ve yazar tarafından kontrol edildikten sonra
+
+15
+
+proje/teze eklenmelidir. Ayrıca danışman öğretim üyesi unvanı ve tezin yazıldığı yüksek
+lisans programı gibi bilgilerin de İngilizcesi yer almalıdır.
+2.8.İçindekiler
+Ortalanmış olarak 12 punto koyu TNR yazı tipi ile sayfanın üstüne İÇİNDEKİLER
+başlığı konur. İçindekiler başlığından önce 1 satır, sonrasında ise 1 satır boşluk verilir.
+Tek satır aşağıdan sayfanın sağına yaslanmış olarak 10 punto büyüklüğünde Sayfa No.
+yazılır. Çalışmanın tüm bölümleri çalışma içinde gözüktükleri sırada bu sayfada
+gösterilirler;
+•
+
+Ana bölüm başlıkları 12 punto büyük koyu harflerle yazılmalıdır.
+
+•
+
+Alt düzey bölüm başlıkları ise kelimelerin baş harfi büyük olacak şekilde, küçük
+koyu olmayan harflerle yazılmalıdır.
+
+•
+
+Soru işareti yer alan başlık kullanılmamalıdır.
+
+•
+
+Ana bölüm başlıkları sayfanın en soluna, alt derece bölüm başlıkları ise
+basamaklandırılmış şekilde başlık derecesi arttıkça bir “Tab”, iki “Tab” gibi daha
+içeriye konulmalıdır.
+
+•
+
+Bütün sayfa numaraları sayfanın en sağına eklenmelidir (bkz. Ek-5).
+
+MS Office Word programı içinde otomatik olarak İçindekiler Sayfasını oluşturan bir
+araç vardır. Ardından yapısal format düzenlenebilir.
+2.9.Tablolar ve Şekiller Listesi
+Üstten bir satır boşluk bırakarak TABLOLAR LİSTESİ başlığı 12 punto, TNR,
+koyu, büyük harflerle, ortalanmış şekilde konur ve başlıktan sonra da bir satır boşluk
+bırakılır. Sağa dayalı olarak 12 punto şeklinde Sayfa No. yazılır.
+Tablolar isimleriyle birlikte çalışmanın başından sonuna kadar ardışık olarak
+numaralandırılırlar. Bir başka deyişle bölüm değişikliklerinde tablo numaralaması bir
+önceki bölümden devam etmelidir (bkz. Ek-6). Tablo numarası ve tablo adı tablonun
+üstünde, koyu harflerle ve ortalanmış olarak verilmelidir.
+
+16
+
+Üstten bir satır boşluk bırakarak ŞEKİLLER LİSTESİ başlığı 12 punto, TNR, koyu,
+büyük harflerle, ortalanmış şekilde yazılarak başlıktan sonra da bir satır boşluk
+bırakılmalıdır. Ayrıca sağa dayalı olarak 12 punto şeklinde Sayfa No. yazılmalıdır.
+Şekillerde tablolar gibi çalışmanın başından sonuna kadar ardışık olarak
+numaralandırılmalıdır. Bir başka deyişle bölüm değişikliklerinde şekil numaralaması bir
+önceki bölümden devam etmelidir (bkz. Ek-7). Şekil numarası ve şekil adı şeklin altında,
+koyu harflerle ve ortalanarak verilmelidir.
+Eğer çalışma içerisinde resim, fotoğraf, çizim ve benzeri malzeme veriliyorsa,
+bunların listesi ayrı bir liste olarak, Tablolar veya Şekiller Listesi gibi aynı biçimde
+düzenlenmelidir. Ayrıca MS Office Word programının ve diğer yazım sistemlerinin bu
+tür işlemleri otomatik gerçekleştirme özellikleri de bulunmaktadır.
+2.10.Kısaltmalar
+Üstten bir satır boşluk bırakıldıktan sonra KISALTMALAR başlığı 12 punto, TNR,
+koyu, büyük harflerle, ortalanmış olarak yazılarak başlıktan sonra bir satır boşluk
+bırakılmalıdır. Çalışma içerisinde geçen bazı kurum ve kavramlar ile yazım tekniği gereği
+yapılan kısaltmalar, bu sayfada alfabetik sıra ile (12 punto, TNR, koyu) verilerek
+karşılarına tam açılımları (12 punto, TNR) yazılmalıdır (bkz. Ek-8). Metin içinde
+kısaltmalarda, kısaltma ifadeleri ilk seferde tam adı yazılırken parantez ile kısaltması
+verilebilir.
+2.11.ORCID ID
+ORCID (Open Researcher and Contributor ID), bilim insanları ve akademik
+otoriteleri benzersiz olarak tanımlamak için kullanılan tescilsiz alfanümerik bir koddur.
+ORCID, sahip olduğunuz ve kontrol ettiğiniz, sizi diğer tüm araştırmacılardan ayıran
+kalıcı bir dijital tanımlayıcı (ORCID ID) sağlar. ORCID ID ile profesyonel bilgilerinizle
+bağlantı kurabilirsiniz –(bağlantılar, hibeler, yayınlar, emsal incelemeleri ve daha fazlası).
+ID’nizi bilgilerinizi diğer sistemlerle paylaşmak, tüm katkılarınızı tanımanızı sağlamak,
+zamandan tasarruf etmek ve hata riskini azaltmak için kullanabilirsiniz. ORCID ID
+internet üzerinden https://orcid.org/ adresinden ücretsiz olarak alınmaktadır. Bu ID
+numarasının iç kapakta yer alan öğrenci numarasının alt satırına yazılması gerekmektedir.
+17
+
+ÜÇÜNCÜ BÖLÜM
+METİN KISMI
+
+Metin Kısmı adı verilen bölüm teorik kısımlar ve varsa ampirik uygulamaların
+anlatıldığı bölümlerdir. Biçim ve içerik şartları aşağıda açıklandığı gibidir.
+3.1.Bölüm Numaraları ve Başlık Yazma Biçimi
+İÇİNDEKİLER sayfasında bölüm ve bölüm alt başlıkları derecelerine göre
+basamaklandırılarak gösterilmektedir. Bölüm Başlığı 12 punto, TNR, koyu, büyük
+harflerle ve sayfa ortalanarak yazılmalıdır (bkz. Ek-5).
+
+i.
+
+Birinci derece bölüm başlıkları yeni bir sayfadan başlamalıdır.
+
+ii.
+
+Birinci derece başlıklar 12 punto, TNR, koyu, ilk harf büyük yazılmalıdır.
+
+iii.
+
+Birinci dereceden daha alt derecedeki başlıklar 12 punto, TNR, koyu yazı tipi
+ile ilk harf büyük yazılmalıdır.
+
+iv.
+
+Metin içindeki başlıkların tümü bir tab boşluk bırakılarak sola yaslı olmalıdır.
+
+v.
+
+Hangi derece olursa olsun başlıkların altına metin yazılması gerekmektedir.
+
+vi.
+
+Yeni başlık, biten metinden sonra bir satır boşluk bırakılarak yazılmalıdır.
+
+vii.
+
+Başlıkla altındaki metin arasında bir satır boşluk bırakılmamalıdır.
+
+viii.
+
+Paragraflar arası bir satır boşluk bırakılmalıdır.
+
+ix.
+
+Her bölümün altında, eğer alt başlık gerekiyorsa, en az iki alt başlık olmalıdır.
+
+x.
+
+Dördüncü dereceden fazla bölüm alt başlığı yapılmamalıdır.
+
+xi.
+
+Bölüm numaraları 12 punto, TNR, koyu yazı tipi ile yazılır. Bölüm numaraları,
+aralarında boşluk bırakmaksızın birbirlerinden nokta ile ayrılır ve nokta ile
+bitirilmelidir (3.4.2. gibi.).
+3.2.Giriş
+Bu bölüm, okuyucuya çalışmanın konusunu tanıtan, genel problem alanının
+
+anlatıldığı ve araştırma alanının netleştirildiği bir bölümdür. Çalışmanın niteliğine bağlı
+olarak (kuramsal / deneysel vb.) amacı, önemi, kapsamı, sınırlılıkları, hipotezleri ve
+yöntem bakımından ana hatları ortaya konularak tüm çalışma boyunca izlenecek yol
+anlatılmalıdır.
+18
+
+Bölüm içerisinde “Araştırma Problemi ve Sorusu”, “Araştırmanın Amacı”, “Araştırmanın
+Önemi”, “Araştırmanın Kapsamı”, “Tanımlar”, “Çalışma Planı” gibi alt derece bölüm
+başlıkları yapılabilir.
+GİRİŞ, çalışmanın her bölümünün kısa bir özetinin verilmesiyle sonlandırılmalıdır.
+Anlatım asla gelecek zaman olarak yapılmamalı, yazılı ve basılı bir eserin anlatımında
+gelecek zaman iyelik ekleri yer almamasına dikkat edilmelidir. GİRİŞ bölümünde tablo,
+şekil, vb. malzeme yer verilmemeye özen gösterilmelidir.
+3.3.Diğer Metin Bölümleri
+3.3.1.Kuramsal Altyapıya ve Alana Dair Tanıtıcı Bölümler
+Çalışmanın konusuna temel oluşturan kuramlar, modeller ve yaklaşımlar bu
+bölümlerde verilmelidir. Çalışma boyunca araştırılan / yorumlanan tüm kavramlar,
+çalışma içindeki rollerine dair kuşkuya yer kalmayacak netlikte tanımlanmalıdır. Bu
+anlatım, literatürdeki diğer çalışmalara atıfta bulunarak pekiştirilmelidir. Araştırma ile
+doğrudan ilgisi olmayan konular bu bölümlere konulmamalıdır. Bu bölümlerin amacının
+araştırmanın kuramsal çerçevesini çizmek olduğu unutulmamalıdır.
+3.3.2.Gözlem ve Deneye Dayalı Olmayan Çalışmalara Özel Bölümler
+Kuramsal tartışma, inceleme, kuramsal model geliştirme, açımlama vb. türündeki
+çalışmalarda, önceki bölümlerde açılımı yapılmış olan kuramsal yaklaşımlar ve
+kavramlar çerçevesinde, yazarın özgün yaklaşımlarının ve yorumlarının olduğu bölüm /
+bölümler bulunabilir ve buna uygun ana başlıklar seçilmelidir.
+Bazı Anasanat / Anabilim Dalları (Sinema-TV, Tekstil Tasarımı, İngiliz Dili ve
+Edebiyatı, Uluslararası İlişkiler Anabilim Dalları gibi) farklı nitelikler taşıdıklarından,
+farklı tasarımda proje / tez hazırlama gereğinin ortaya çıktığı durumlarda, ilgili dalın
+beklentilerine uygun çalışmalar danışmanın yönlendirmesiyle yürütülebilir ve
+hazırlanabilir.
+
+19
+
+3.4.Kaynak Gösterimi
+Tez / proje yazımında [ ] köşeli parantez kaynak gösterimi (numerik sistem) için
+IEEE, yazar tarih sistemi kullanılacak olan tezlerde American Psychological Association
+(APA) Altıncı Edisyonunun kullanılması tavsiye edilmektedir. Yukarıda belirtilen
+kaynak gösterim biçimlerinden birinin seçiminde danışmanların önerileri dikkate
+alınmalıdır.
+3.4.1IEEE Kaynak Gösterim Formatı
+•
+
+IEEE atıf stili, metninde köşeli parantez içinde verilen alıntı numaralarını kullanan
+numaralandırılmış bir referans stilidir ve ağırlıklı olarak mühendislik alanında
+tercih edilmektedir.
+
+•
+
+Referans numaraları köşeli parantez içinde verilmelidir.
+
+•
+
+6 adet yazara kadar olan yazarlar kaynakçada gösterilirken altıdan fazla yazar
+olması durumunda birinci yazar alınır ve sonrasında vd. ifadesi ilave edilir.
+
+•
+
+Daha önce numara verilen kaynağa tekrar atıf yapılmak istenirse önceki numarası
+kullanılmalıdır.
+
+•
+
+Metin içi atıflarda yazar adı, kullanılan sayfalar veya yayın tarihi belirtilmek
+zorunda değildir.
+
+Kaynaklar metin içerisinde, açıklamalarındaki anlamı ifade etmek üzere aşağıdaki
+şekillerde kullanılabilir (Tek bir kaynağa atıf yapılması durumu):
+[1] : 1 numaralı kaynak,
+[3] : 3 numaralı kaynak.
+(Aynı anda birden fazla kaynağa atıfta bulunurken, tercih edilen yöntem, her bir sayıyı
+ayrı ayrı, kendi parantezleri içinde, sayılar arasında virgül veya kısa çizgi kullanarak
+verilebilir)
+[4, 5] : 4 ve 5 numaralı kaynaklar,
+[5-8] : 5, 6, 7 ve 8 numaralı kaynaklar,
+[1, 5, 6] : 1, 5 ve 6 numaralı kaynaklar,
+[3, 8-10] : 3, 8, 9 ve 10 numaralı kaynaklar.
+
+20
+
+Örnekler: Metin İçi Gönderme (IEEE)
+… [15]’te verilmektedir.
+… olayın teorik incelenmesinde rastlanmaktadır, [3], [5-8].
+… ağının sınır noktalarında alır, [2],[9].
+… çözümünün varlığı ve tekliği [7] ve [8] de incelenmiştir.
+[6] da bulunan çözümlerin diferansiyellenebilme özellikleri ….
+[2] ve [4] deki araştırmalarda …
+Guckenheimer [1] de çözümün lokalizasyon …
+[1], [5-8] de gösterilmiştir ki, …
+… fonksiyonunun parçalı sürekli olduğu (bakınız [4], [5], [10], [17]) durumlarda …
+IEEE kaynakça gösterim formatına ilişkin örnekler Ek-9’da gösterilmiştir.
+3.4.2.Yazar Tarih Sistemi Metin İçin Gönderme (APA)
+Gönderme en temel olarak iki biçimde yapılır: Evans ve Shaw (2008) tarafından
+gerçekleştirilen bir araştırmada, aile ile gerçekleştirilen birlikte okuma etkinliklerinin
+çocuğun okuma becerilerine olumlu etkisi olduğu vurgulanmıştır.
+ya da
+Bilimsel dergiler, yoğun olarak bilim insanları tarafından kullanılan önemli bir
+resmi iletişim aracıdır. Süreğen olma, güncel araştırma sonuçlarını hızlı yayınlama ve
+eriştirme bilimsel dergilerin en temel özellikleridir. Bu özellikler bilimsel dergileri diğer
+bilimsel iletişim araçlarından ayırmakta ve güncelliğin ön planda olduğu disiplinlerde
+daha çok kullanılır kılmaktadır (Küçük, Al ve Olcay, 2008, s. 309).
+
+21
+
+3.4.2.1. Kaynakça İle Göndermelerin Uyumu
+•
+
+Metin içerisinde gönderme yapılan her kaynak kaynakçada yer almalı,
+kaynakçada yer alan her kaynağa da metin içerisinde mutlaka gönderme yapılmış
+olmalıdır.
+
+•
+
+Göndermedeki yazar adı ve tarih bilgisi kaynakçadaki yazar adı ve tarih bilgisi ile
+birebir aynı olmalıdır.
+
+•
+
+İncil ve Kur’an gibi klasik yapıtlara ve kişisel iletişimlere metin içerisinde
+gönderme yapılması yeterlidir, ayrıca kaynakçada belirtmeye gerek yoktur.
+
+•
+
+Meta-analize konu olan makalelere metin içinde ayrıca değinilmiyorsa gönderme
+yapılması gerekli değildir.
+
+Örnekler:
+Tek Yazarlı Eserler
+Tek yazarlı eserlere göndermeler yazarın soyadını ve tarih bilgisini içerir. Jr. gibi son
+ekleri içermemeleri gerekmektedir
+Künye
+Yılmaz, B. (2005). Türkiye’de kamu yönetiminin yeniden yapılandırılması süreci ve halk
+kütüphaneleri. Türk Kütüphaneciliği, 19, 56-77.
+Gönderme
+(Yılmaz, 2005, s. 58)
+İki ve/veya Daha Fazla Yazarlı Çalışmalar
+İki yazarlı bir çalışma için her göndermede iki yazarın soyadı da yer almalıdır.
+Künye
+Al, U. ve Soydal, İ. (2014). Kütüphan-e Türkiye Projesi: Halk kütüphanesi kullanım
+araştırması. Türk Kütüphaneciliği, 28(3), 288-307.
+Gönderme
+(Al ve Soydal, 2014, s. 300)
+
+22
+
+Üç, dört ve beş yazarlı çalışmalara gönderme yapılırken sadece metin içindeki ilk
+göndermede tüm yazarların soyadları verilir. Diğer göndermeler için ilk yazarın soyadının
+yanına ve diğerleri ifadesi eklenmelidir. İngilizce yazılan makalelerde üç, dört ya da beş
+yazarlı yayınlara gönderme yapılırken ve diğerleri yerine et al. İfadesi kullanılmalıdır.
+Örnek
+İlk gönderme
+(Uçak, Kurbanoğlu, Şencan ve Doğan, 2011)
+İkinci ve sonraki göndermeler
+(Uçak ve diğerleri, 2011)
+Eğer bir paragraf içerisinde üç, dört ya da beş yazarlı bir çalışmaya gönderme yapılmış
+ve aynı paragraf içerisinde aynı kaynağa tekrar gönderme yapmak gerekiyorsa ikinci ve
+sonraki göndermelerde tarih bilgisini eklemeye gerek yoktur.
+Örnek
+Eğer kaynak metin içinde ilk kez geçiyorsa:
+Choo, Bergeron, Detior ve Heaton (2008, s. 794), bilgi kullanımını sekiz farklı sınıfta ele
+almaktadır. Choo ve diğerleri, aynı çalışmada… Eğer kaynak metin içerisinde daha önce
+geçtiyse Choo ve diğerleri (2008, s. 794), bilgi kullanımını sekiz farklı sınıfta ele
+almaktadır. Choo ve diğerleri, aynı çalışmada
+Altı ve daha fazla yazarı olan çalışmalara gönderme yapılırken sadece ilk yazarın soyadı
+belirtilir.
+Künye
+Dougherty, M., Meyer, E.T., Madsen, C., Van den Heuvel, C., Thomas, A. ve Wyatt, S.
+(2010). Researcher engagement with web archives: State of the Art. Report. London:
+JISC.
+Gönderme
+(Dougherty ve diğerleri, 2010)
+
+23
+
+Word programı ile Başvurular başlığı altında otomatik olarak (alıntı ekle)
+kullanılarak APA 6 için metin içi gönderme yapılabilir. APA 6 formatında her bir eser
+formatı için (Kitap, Kitap Bölümü, Dergi Makalesi, Bildiri vb.) konularda bütün künye
+bilgileri eklenmelidir.
+
+APA 6 için KAYNAKÇA formatı da otomatik olarak kullanılabilir. Ardından
+KAYNAKÇA yazım formatları uygulanabilir (bkz. Ek-10).
+
+24
+
+3.5.Tablo ve Şekil Kullanımı
+Tablolar, Tablo 1. Tablo Adı şeklinde başlayarak çalışma sonuna kadar
+numaralandırılır. Tablo ismi tablonun üstüne sayfayı ortalayarak 12 punto TNR ve kalın
+olarak yazılmalıdır. Alıntı yapılmış ise alınan kaynak tablo altında iki yana yaslı 10 punto
+TNR ve tek aralık olarak verilmelidir (bkz. Ek-6).
+Örnek:
+Tablo 1. Atıf Yapılan Kaynakların Yayın Türüne Göre Dağılımı
+Yayın türü sınıflaması
+N
+%
+Kitap
+
+6.083
+
+42,1
+
+Dergi
+
+5.646
+
+39,1
+
+Elektronik yayın
+
+1.726
+
+12,0
+
+Tez
+
+600
+
+4,2
+
+Diğer yayınlar
+
+372
+
+2,61
+
+Toplam
+
+14.359
+
+100
+
+Kaynak: Şencan, İ ve Doğan, D. 2017. “Bilimsel Yayınlarda Kaynak Gösterme, Tablo ve Şekil Oluşturma
+Rehberi APA 6 Kuralları. Türk Kütüphaneciler Derneği, s. 23.
+
+Şekiller, Şekil 1. Şekil Adı ile başlayarak çalışma sonuna kadar numaralandırılır. Şekil
+ismi ve alınan kaynak şeklin altına sayfa ortalanarak 12 punto TNR olarak yazılır. Kaynak
+ise şekil isminin altından 10 punto TNR ve tek aralıklı sola dayalı olarak yazılmalıdır
+(bkz. Ek-7).
+
+25
+
+Örnek: 1
+
+Şekil 1. Lider Kütüphane Müdürü Seçimine İlişkin Hiyerarşik Yapı.
+Kaynak: Yılmaz, M. 2010. “Analitik Hiyerarşi Süreci (AHS) ve Bir Uygulama: Lider Bir Kütüphane
+Müdürü Seçimi.” Türk Kütüphaneciliği, 4(2), s. 223.
+
+Örnek 2
+
+Şekil 2. Varlık Dağılımlarının Radar Grafiği İle Gösterimi
+
+26
+
+3.6.Sonuç
+Bu bölüm Metin Kısmının son bölümüdür ve hangi Anasanat / Anabilim Dalı
+olduğuna bakılmaksızın tüm Proje ve Tez çalışmalarında bulunur. Çalışmanın en önemli
+kısmıdır. Bu bölümde, ilk olarak çalışmanın kısa bir özeti bulguların sözel kısa anlatımıyla
+birlikte verilir. Ardından, yazar yorumlarının kısa özetini sunarak çalışmanın kısıtları,
+çalışmada ortaya çıkmış yeni ve başka araştırmalar için önerilebilecek hususlara değinir. Son
+olarak çalışma, kurumlara ve kişilere uygulamada pratik yararlar sağlayabilecek sonuçlar
+içeriyorsa, bunlar da akademisyenlere ve çalışma alanındaki ilgili kişilere öneriler olarak
+sunulur. Çalışmanın en özgün kısmı olduğu için kısa tutulmamalıdır.
+•
+
+SONUÇ bölümünde alt başlık kullanılmasından kaçınılmalıdır.
+
+•
+
+SONUÇ bölümüne başlık numarası verilmemelidir.
+
+•
+
+SONUÇ bölümde dipnot kullanmamaya özen gösterilmelidir.
+
+3.7.Son Kısım
+Son Kısım KAYNAKÇA, EKLER ve ÖZGEÇMİÇ sayfalarını içerir. Her biri sayfa
+başından başlar. Bunlar için bölüm numarası verilmez.
+
+3.7.1.Kaynakça
+Kaynakça vermenin amacı, okuyuculara kaynaklara erişme ve kaynakları kullanma
+konusunda yardımcı olmaktır. Bu nedenle kaynakçalarda verilen kaynaklara ilişkin bilgiler
+doğru ve tam olmalıdır. Her künye genel olarak yazar, yayın yılı, başlık ve yayın bilgisi
+alanlarını içerir. Bu bilgileri kontrol etmenin en iyi yolu, her bir künyeyi orijinal yayına
+gidip doğrulamaktır. Dergi adlarının, yayın yılı bilgisinin, cilt ve sayı numaraları ile sayfa
+numaralarının ve elektronik erişim bilgilerinin tam olarak aktarılmasına, özel adların ve özel
+vurgu veya işaretler içeren yabancı dildeki kelimelerin hecelenişine dikkat edilmelidir.
+Yazarlar kaynakça listesindeki tüm bilgilerden sorumludurlar. Doğru ve tam bir şekilde
+hazırlanmış kaynakça, dikkatli bir araştırmacı olarak güvenilirlik oluşturmaya yardımcı
+olur.
+
+27
+
+Metin içinde kullanılan her kaynak mutlaka dijital veya fiziksel çıktı olarak yazarda
+bulunmalıdır. Proje ve tez yazım sürecinin, savunması sonrası dâhil herhangi bir
+sürecinde enstitü veya etik kurul tarafından kaynakların bir kısmı veya tamamı talep
+edilebilir. Kaynakçada kullanıldığı yazar tarafından belirtilen tüm kaynaklar gerektiği
+anda enstitüye teslim edilebilir hale hazır olmalıdır. Eserlerin PDF formatında dijital
+ortamda kaydı yeterlidir. Dijital kaydı bulunmayan fiziksel kitap ve diğer eserlerin de
+Kapak, İç kapak ve kullanılan sayfalarının fotokopisi veya resminin yazar tarafından
+saklanması gerekmektedir. Kaynakça biçimi oluşturulurken aşağıda verilen hususlara
+dikkat edilmelidir:
+•
+
+Başlıktan önce ve sonra da bir satır boşluk verilir.
+
+•
+
+KAYNAKÇA başlığı TNR, 14 punto ve koyu olarak yazılır. Kaynakça içeriği ise
+12 punto TNR olarak yazılır.
+
+•
+
+Kaynakça, kaynakların ilk yazarlarının soyadına göre alfabetik olarak
+sıralanmalıdır.
+
+•
+
+Kaynakça bölümünde, iki yana yaslı gövde metni kullanılırken, Aralık Önce
+(0nk) Sonra (6nk), Satır aralığı (1,5. satır) olarak ayarlanmalıdır.
+3.7.2.Ekler
+Metnin akışını zedeleyebilecek uzunluk ve büyüklükteki tablo, şekil, resim, ikincil
+
+veriler ya da anket, izin belgeleri, yazışmalar, vb. bu bölümde yer alır. Aynı zamanda bir
+sayfayı aşkın doğrudan alıntılar da eklerde yer alır. Her ek ayrı bir sayfada verilir.
+İÇİNDEKİLER sayfasında sayfa numarası belirtilmeden EKLER başlığı verilir ve
+altında sayfa numaralarıyla birlikte tüm ekler belirtilir (bkz. Ek-7). EKLER başlığı
+çalışmanın İÇİNDEKİLER sayfasından başka hiçbir yere konulmamalıdır.
+Sayfanın sol üst köşesine Ek-1, Ek-2 şeklinde numaralama yapıldıktan sonra ekte
+sunulan malzemenin adı verilir. Genel biçim aşağıdaki biçimdedir.
+Ek-No: Ekin Adı (12 punto, koyu, TNR: 12 punto, TNR; ‘ve’, ‘ile’ gibi bağlaçlar
+hariç tüm kelimeler büyük harfle başlar)
+Ek-4: Araştırmada Kullanılan Anket Formu
+
+28
+
+3.7.3.Özgeçmiş
+Çalışmayı hazırlayanın özellikle eğitim hayatını ve varsa akademik çalışmalarını
+anlatan bir özgeçmişi çalışmanın sonunda yer alır (bkz. Ek-11). Çalışmayı hazırlayanın
+özellikle eğitim hayatını ve varsa akademik çalışmalarını anlatan kısa bir özgeçmişi
+çalışmanın sonunda yer alır ve üçüncü tekil şahıs üzerinden edilgen cümle yapısı ile
+anlatılmalıdır.
+ÖZGEÇMİŞ, İÇİNDEKİLER sayfasında yer almaz.
+3.8.Araştırmalarda Başlıca Yapılan Hatalar
+Araştırmada yapılan başlıca hatalarını aşağıdaki gibi sıralamak mümkündür:
+ARAŞTIRMANIN
+BÖLÜMLERİ
+
+SIK RASTLANAN HATALAR
+
+Amaca ve eldeki imkânlara uygun, yapılabilir bir konunun seçilmesi,
+konu başlıklarının çok genel olması
+İyi bir şekilde düzenlenememesi ve eksik bilgiler içermesi
+Çok uzun veya çok kısa yazılması. Amaç, yöntem ve bulguların
+Özet ve Abstract
+dışına çıkılarak Giriş’e benzetilmesi, Abstract çevirisinin tam
+olmaması
+Çok uzun yazılması, başka kaynaklara atıf yapılması, konunun dışına
+Giriş
+çıkılması
+Yeterli sayıda kaynaklara yer verilmemesi, en yeni ve güncel
+Literatür
+kaynakların gözden kaçırılması, incelenen kaynaklara hatalı ve eksik
+değerlendirilmesi
+Araştırma konusuna ve amacına uygun yöntemin seçilmesi.
+Örneklem seçimi, veri toplama, veri analizi ve sonuçlarının
+Yöntem
+takdiminde uygun yolun izlenmemesi. Denek sayılarının yetersizliği
+ve ana kitleyi temsil etmemesi
+Bulguların hatalı olması ve sonuçların yanlış yorumlanması,
+Bulgular ve Sonuç
+istatistiksel analizlerin ve testlerin hatalı olması. Elde edilen bulgu ve
+sonuçların araştırmanın amacına ve kullanılan verilere uygun
+olmaması
+Önerilen çalışmaya uygunluk göstermemesi, Araştırmada dikkate
+Öneriler
+alınmayan, üzerinde durulmayan ya da yeterince araştırılmayan
+hususlarda öneri sunulması, önerilerin anlamlı ve uygulanabilir
+olmaması. Önerilerin çok uzun ya da çok kısa olması
+Çok kısa tutulması, kaynakça listesini geniş tutmak için metin
+Kaynakça Listesi
+kısmında kullanılmayan kaynaklara yer verilmesi, listenin
+sunumunda yaygın olan akademik bildirim kurallarına uyulması.
+İnternet kaynaklarının tarihlerinin olmaması
+Araştırma Raporunda Anlatım dilinin ve üslubun, araştırmanın konusuna ve bilimsel
+Kullanılan
+Anlatım derinliğe, okuyucu ya da yararlanıcı kitlenin seviyesine ve nihayet
+Dili ve Üslubu
+raporu kaleme alanın amacına ve düzeyine uygun seçilmemiş olması
+Konu Belirleme
+Kapak Sayfası
+
+Kaynak: R. Arıkan. 2010. “Araştırma Teknikleri ve Rapor Yazma” Rauf Arıkan, Ankara: Gazi Kitabevi,
+s. 276.
+
+29
+
+Ayrıca TÜBİTAK’a göre etik ihlalleri aşağıdaki gibi sıralanmıştır:
+•
+
+Uydurma (Fabrication): Araştırmada bulunmayan verileri üretmek, bunları rapor
+etmek veya yayınlamak.
+
+•
+
+Çarpıtma
+
+(Falsification):
+
+Değişik
+
+sonuç
+
+verebilecek
+
+şekilde
+
+araştırma
+
+materyalleri, cihazlar, işlemler ve araştırma kayıtlarında değişiklik yapmak veya
+sonuçları değiştirmek.
+•
+
+Aşırma (Plagiarism): Başkalarının metodlarını, verilerini, yazılarını ve şekillerini
+sahiplerine atıf yapmadan kullanmak.
+
+•
+
+Duplikasyon (Duplication): Aynı araştırma sonuçlarını birden fazla dergiye yayım
+için göndermek veya yayınlamak.
+
+•
+
+Dilimleme (Least Publishable Units): Bir araştırmanın sonuçlarını, araştırmanın
+bütünlüğünü bozacak şekilde ve uygun olmayan biçimde ayırarak çok sayıda
+yayın yapmak.
+
+•
+
+Destek Belirtmeme: Desteklenerek yürütülen araştırmaların sonuçlarını içeren
+sunum ve yayınlarda destek veren kurum veya kuruluş desteğini belirtmemek.
+
+•
+
+Yazar Adlarında Değişiklik Yapma: Araştırma ve makalede ortak araştırıcı ve
+yazarların görüş birliği olmadan, araştırmada aktif katkısı bulunanların isimlerini
+çıkartmak veya yazarlıkla bağdaşmayacak katkı nedeniyle yeni yazarlar eklemek
+veya yazar sıralamasını değiştirmek.
+
+Kaynak göstermeden yapılan intihal türlerini aşağıdaki şekilde sıralamak
+mümkündür:
+•
+
+Hayalet Yazar (The ghost writer): Bir başka kaynaktan kelime kelime tüm bilgiyi
+almak.
+
+•
+
+Mevcut Yazı (The potluck paper): Pek çok kaynaktan alarak kendine ait gibi
+göstermek.
+
+•
+
+Zayıf / Yetersiz Gizleme (Kılık Değiştirme Saklama) (The poor disguise):
+Paragraf içindeki anahtar kelimeleri değiştirerek gizlemek.
+
+•
+
+Kendinden Aşırma (The self-stealer): Kendisine ait önceki bir çalışmadan aynen
+almak.
+
+30
+
+•
+
+Fotokopi (The Photocopy): Belli bir kaynaktan hiç bir değişiklik yapmadan bir
+bölümü almak.
+
+•
+
+Emek Tembelliği (The Labor of Laziness): Orijinal çalışma için çaba sarfetmek
+yerine çalışmanın büyük bir kısmını başka kaynaklardan alıntılarla doldurmak
+
+Kaynak göstererek yapılan intihaller ise şunlardır:
+•
+
+Unutulan Dipnot (The forgotten footnote): Yazar adını vererek fakat tam künyeyi
+vermeyerek kaynağın orijinaline ulaşılma ihtimalini ortadan kaldırmak.
+
+•
+
+Yanlış Bilgilendirme (The misinformer): Yanlış künye vererek kaynağın
+orijinaline ulaşılma ihtimalini ortadan kaldırmak.
+
+•
+
+Fazla Mükemmel Alıntı (The Too-Perfect Paraphrase): Yazarın bire bir alıntı
+yaptığı kaynağa atıf yapması fakat tırnak işareti koymayı önemsememesi.
+
+•
+
+Becerikli Atıf Yapma (The Resourceful Citer): Yazarın tüm kaynaklara atıf
+yapması, tırnak işareti kullanması fakat araştırmanın hiçbir orijinal fikir
+içermemesi.
+
+•
+
+Mükemmel Suç (The Perfect Crime): Yazarın bazı yerlerde kaynaklara atıf
+yapması fakat yazının kalan kısımlarındaki analizlerin kendine ait olduğu fikrini
+yaratma düşüncesiyle bazı kaynaklara atıf vermemesi.
+3.9.Mezuniyet Öncesi
+3.9.1.Jüri Seçimi Öncesi Tezin Enstitü Yönetimine Sunulması
+Ön kısımda bulunan Tez Sınav Tutanağı jüri üyelerine verilen savunma öncesi
+
+ciltlerde yer almaz. Tez danışmanının uygun görmesiyle, hazırlanan Yüksek Lisans
+çalışmasının birbirinin birebir aynısı olan spiral ciltli dört (4) adet nüshası, Doktora
+tezlerinin ise birbirinin birebir aynısı olan spiral ciltli yedi (7) adet nüshası Enstitü
+Yönetimine sunulmalıdır.
+3.9.2.Proje Teslimi Öncesi Projenin Teslim Aşamaları
+Proje öğrencilerimiz tamamladıkları projeyi önce danışmanlarına sunarak onay
+almalıdırlar. Danışmanın uygunluk vermesi durumunda intihal raporu ile birlikte
+
+31
+
+doldurulacak olan üç adet “Proje Teslim Tutanağı” ile birlikte enstitüye teslim işlemlerini
+gerçekleştirebilirler.
+3.10.Mezuniyet Aşaması
+3.11.Mezuniyet Aşamasında Tezin Enstitü Yönetimine Sunulması
+Tez Savunması “Başarılı” bulunduktan sonra, Tez Sınav Tutanağı tüm jüri üyeleri
+tarafından imzalanmış ve 2. Bölümde gösterilen sıralamadaki yerine yerleştirilmiş şekilde,
+birbirinin birebir aynısı olan üç (3) nüsha Yüksek Lisans ya da Doktora çalışması, beyaz
+karton kapakla ya da Enstitünün belirleyeceği bir malzemeyle ciltlenerek Enstitüye sunulur.
+Tezli / Tezsiz Yüksek Lisans öğrencileri ayrıca Ek-13’te istenenleri yerine
+getirmekle yükümlüdür. Yüksek Lisans Tezlerinin (projeler hariç) elektronik ortamda
+kaydedilmiş biçimleri Enstitü tarafından Yüksek Öğretim Kurumu (YÖK)’na iletilecek ve
+YÖK Ulusal Tez Merkezi tarafından internette yayınlanacaktır. Yüksek Lisans Projeleri ise
+Enstitü tarafından elektronik ortamda saklanacaktır.
+Tezin tamamının dosya adının isimlendirilmesi:
+ReferansNumarası.pdf Türkçe özetin dosya adının isimlendirilmesi:
+ad_soyadı_ozet_tr.pdf İngilizce özetin dosya adının isimlendirilmesi:
+ad_soyadı_ozet_en.pdf
+Proje ve Tez cildinin üzerine aşağıdaki şablona göre yazı yazılacaktır:
+ÖN YÜZ
+Dış Kapak (bkz. 4.1)
+SIRT
+[Adı SOYADI]
+
+[ÇALIŞMANIN ADI]
+ARKA YÜZ
+Boş bırakılacaktır
+
+32
+
+[İSTANBUL, YIL]
+
+3.10.2.Mezuniyet Aşamasında Proje
+Tezsiz Yüksek Lisans programındaki öğrencinin; projesini enstitü tez ve proje
+yazım kılavuzuna uygun olarak yazması ve danışmanına sunması gerekir. Danışman
+sunulan proje hakkında başarılı veya başarısız kararı verir ve proje değerlendirmesine
+ilişkin değerleme tutanağını hazırlar. Bu tutanağa güncel bir benzerlik raporu ekleyerek
+öğrenciye takdim eder. Öğrenci de tezsiz yüksek lisans programının bütün yükümlülüklerini
+başarıyla tamamlamış ise mezuniyeti için; projenin çoğaltılmış ve ciltlenmiş İngilizce özetli
+bir adet nüshasını, .pdf formatlı CD’lerini ve aşağıda istenen diğer tüm dokümanları
+enstitüye eksiksiz temin ve teslim etmesi gerekir:
+
+a)
+
+Projenin çoğaltılmış ve ciltlenmiş İngilizce özetli bir adet nüshası ve PDF formatlı
+CD’leri (Projenin tamamı PDF formatında ve tek parça olmalıdır).
+
+b)
+
+Proje değerlendirme tutanağı.
+
+c)
+
+Güncel tarihli ve danışman ıslak imzalı benzerlik raporu.
+
+d)
+
+Proje veri giriş formu.
+
+e)
+
+Proje teslim formu.
+
+f)
+
+İlişik kesme formu (Enstitüden temin edilecektir).
+
+33
+
+Kılavuzun Hazırlanmasında Kullanılan Kaynaklar
+Boğaziçi Üniversitesi, Tez Yazım Kılavuzu (2011). Boğaziçi Üniversitesi Web sayfası.
+Erişim Adresi: http://www.sbe.boun.edu.tr/en/thesis/style-guide
+Chicago-Style
+Citation
+Quick
+Guide
+(2021).
+Erişim
+Adresi:
+https://www.chicagomanualofstyle.org/tools_citationguide.html
+Doğuş Üniversitesi Lisansüstü Tez Yazım Kılavuzu (2013). Doğuş Üniversitesi Web
+sayfası. Erişim Adresi:
+https://www.dogus.edu.tr/Content/files/20180511085619680.pdf
+İstanbul Teknik Üniversitesi Lisanüstü Tez Yazım Kılavuzu (2008). İTÜ Web sayfası.
+Erişim Adresi: https://sbe.itu.edu.tr/ogrenci-isleri/tez-yazim-kilavuzu
+İstanbul Üniversitesi, Sosyal Bilimler Enstitüsü, Tez Hazırlama Yönergesi (2020).
+İstanbul
+Üniversitesi
+Web
+sayfası.
+Erişim
+Adresi:
+https://cdn.istanbul.edu.tr/statics/sosyalbilimler.istanbul.edu.tr/wpcontent/uploads/2018/04/tez.hazirlama.yonergesi.pdf
+Kadir Has Üniversitesi, Tez Yazım Kılavuzu (2021). Kadir Has Üniversitesi Web
+sayfası. Erişim Adresi: https://sgs.khas.edu.tr/tr/tez-yazim-ilkeleri
+Marmara Üniversitesi, Sosyal Bilimler Enstitüsü, Lisansüstü Tez ve Proje Yazım
+Kılavuzu (2021). Marmara Üniversitesi Web sayfası. Erişim Adresi:
+https://sbe.marmara.edu.tr/ogrenci/tez-yazim-kilavuzu-yeni
+Okan Üniversitesi Tez Yazım Kılavuzu (2021). Okan Üniversitesi Web sayfası. Erişim
+Adresi:
+https://www.okan.edu.tr/uploads/pages/tez-proje-yazimkurallari/sbe_tez.pdf
+Sabancı Üniversitesi Tez Yazım Kılavuzu (2021). Sabancı Üniversitesi Web sayfası.
+Erişim Adresi: http://people.sabanciuniv.edu/~onat/Files/TezYazimi.pdf
+Sakarya Üniversitesi, Sosyal Bilimler Enstitüsü, Tez Yazım Kılavuzu (2021). Sakarya
+Üniversitesi
+Web
+sayfası.
+Erişim
+Adresi:
+https://sbe.sakarya.edu.tr/tr/icerik/8417/23300/tez-yazim-kilavuzu
+Seyidoğlu, H. (2009). Bilimsel araştırma ve yazma el kitabı. İstanbul: Güzem Can
+Yayınları.
+Şencan, İ. Ve Doğan, G. (2018). Bilimsel yayınlarda kaynak gösterme, tablo ve şekil
+oluşturma rehberi APA 6 kuralları. Ankara: Türk Kütüphaneciliği.
+Uçak, N. Ö., & Birinci, H. G. (2008). Bilimsel etik ve intihal. Türk Kütüphaneciliği,
+22(2), 187-204.
+Yıldız Teknik Üniversitesi, Sosyal Bilimler Enstitüsü, Yüksek Lisans ve Doktora
+Tezleri-Sanatta Yeterlik Eser Çalışması Eser Kılavuzu (2007). Yıldız Teknik
+Üniversitesi
+Web
+sayfası.
+Erişim
+Adresi:
+http://www.sbe.yildiz.edu.tr/images/files/yazim.pdf
+
+34
+
+EKLER
+
+35
+
+Ek-1: Yemin Metni Örneği
+
+Yüksek Lisans Projesi / Tezi - Doktora Tezi olarak sunduğum “ .............................. ”
+başlıklı bu çalışmanın, bilimsel ahlak ve geleneklere uygun şekilde tarafımdan
+yazıldığını, bu tezdeki bütün bilgileri akademik ve etik kurallar içinde elde ettiğimi,
+yararlandığım eserlerin tamamının kaynaklarda gösterildiğini ve çalışmamın içinde
+kullanıldıkları her yerde bunlara atıf yapıldığını, patent ve telif haklarını ihlal edici bir
+davranışımın olmadığını belirtir ve bunu onurumla doğrularım. ……/……/… (Tarih)
+
+(İmzası)
+Adayın Adı Soyadı
+
+36
+
+Ek-2a: Tez Yüksek Lisans Sınav Tutanağı Örneği
+
+37
+
+Ek-2b: Proje Değerlendirme Tutanağı
+
+38
+
+Ek-3: Türkçe Özet ve Anahtar Kelimeler Örneği
+Adı ve Soyadı
+
+: ……………………..
+
+Danışmanı
+
+: ……………………..
+
+Türü ve Tarihi
+
+: …………………….
+
+Alanı
+
+:
+
+…………………….
+
+Anahtar Kelimeler
+
+:
+
+Arşivler, kamu arşivleri, özel arşivler, arşiv türleri, kent
+arşivleri,
+ÖZET
+TEZ ADI
+
+Arşivcilik biliminde arşivler teoride ve uygulamada temelde iki gruba ayrılmıştır.
+Bunlardan ilki “kamu arşivleri” diğer ise “özel arşivler”dir. Bu gruplandırmanın
+temelinde arşiv belgelerinin hukuki olarak mülkiyeti, kullanım hakkı ve aidiyeti yer
+almaktadır. Zaman içerisinde özel kuruluşların ya da sermayenin devletin üretim ve
+yönetiminde etkin bir konuma gelmesiyle özel arşivlerin tanımlanması önem kazanmış
+ve birçok dünya ülkesi arşiv mevzuatlarında bu konuda yeni yasal düzenlemeler yapmak
+zorunda kalmışlardır. Zira özel arşivlerin miktarı ve içeriği hiç de azımsanmayacak
+boyutlara ulaşmıştır. Bu düzenlemeyi yaparken arşivciler, özel hayatın gizliliği, bilgi
+edinme hakkı yasası, kamu menfaatlerinin korunması gibi önemli hak ve özgürlükleri
+birbirleriyle bağdaştırmak durumunda kalmışlardır.
+Özel arşiv türlerinden biri olan kent arşivleri yerel kültürün gelecek nesillere
+aktarılmasında çok önemli bir işleve sahip olduklarından dolayı Avrupa’da uzun
+zamandır faaliyet göstermelerine rağmen ülkemizde yerel yönetimlerin öncülüğünde
+ancak 2000’li yılların başından itibaren hizmet vermeye başladıkları görülmektedir.
+Bu çalışmada ülkemizdeki ve dünyadaki özel arşiv mevzuatı uygulamaları
+incelenerek karşılaştırmalar yapılmıştır. Elde edilen veriler ışığında Milli Arşiv
+Yasası’nda özel arşivlere ilişkin olarak yer alması gereken unsurlar sıralanmıştır. Kent
+arşivlerine ilişkin olarak ise yurtdışı kaynaklı arşivler incelenmiştir. Bu incelemelerden
+elde edilen veriler doğrultusunda ülkemizdeki kent arşivlerinde mevcut durumun
+saptanabilmesi amacıyla il yerel yönetimleri tarafından kurulan toplam 7 kent arşivini
+kapsayan anket çalışması uygulanmıştır. Uygulanan anket çalışması sonucunda derlenen
+veriler ışığında ulusal ölçekli ve uluslararası standartlarda bileşenlere sahip olan bir “kent
+arşivi modeli” geliştirilmiştir. Bu model çerçevesinde; personel, arşiv binaları, sağlama,
+koruma, saklama, erişim ve dijitalleştirme başlıkları altında kent arşivlerinin
+yapılandırılmasına ilişkin olarak model önerisinin bileşenleri detaylandırılmıştır. Ayrıca
+kent arşivinin işleyiş yapısını belirleyecek olan kapsam, metot, standartlar, kurumsal
+yapılanma ve sürdürülebilirlik ile ilgili kavramlar model içerisinde ele alınmıştır.
+
+39
+
+Ek-4: İngilizce Özet ve Anahtar Kelimeler Örneği
+
+Name and Surname
+
+: ……………………………….
+
+Supervisor
+
+: ……………………………….
+
+Degree and Date
+
+: ……………………………….
+
+Major
+
+: ……………………………….
+
+Key Words
+
+Archives, public archives, private archives, types of
+archives, city archives.
+ABSTRACT
+THESIS NAME
+
+In archival science, in theory and in practice, archives are fundamentally divided
+into two groups as 'public archives' and 'private archives'. Legal possession, right of
+usage and ownership of archival records underlie aforementioned grouping. In time, as
+private enterprises or capital stock have reached a remarkable level in state's production
+and governance, identifying private archives has come into prominence and numerous
+countries have been obliged to set new legal regulations in their national archival
+legislation. In this respect, amount and content of private archives have reached
+considerable dimensions. Archivists, when setting those regulations, have had to correlate
+some significant rights and freedoms such as the right of privacy, right to demand
+information and preserving public interests with each other.
+City archives are a type of private archives. Even though city archives have been
+operating for ages in Europe due to the fact that they are crucial in terms of handing down
+local culture to the next generations, it has been observed that in Turkey, they have just
+begun to serve under the leadership of local governments from 2000s onwards.
+In this study, private archive legislation regulations from Turkey and other countries
+were examined and compared. In the light of data obtained, the elements needed to be
+included in National Archives Act regarding private archives were compiled. Concerning
+city archives, foreign-sourced archives were analyzed. In accordance with the aforesaid
+analysis, with a view to determine the current state of city archives in our country, a
+survey, which comprised 7 city archives established by provincial local governments, was
+conducted. In the view of the data collected from the survey, ' a city archive model ' which
+is on a national scale and holds international standard components, was created. Within
+the framework of this model, the components of the proposed model were elaborated
+under the titles of staff, archive buildings, supplying, preserving, storage, access and
+digitalising regarding the reconstruction of city archives. Furthermore, concepts of
+content, method, standards, institutional structuring and sustainability, which are to
+determine the operational system of the city archive, were discussed in the model.
+
+40
+
+Ek-5 İçindekiler Sayfası Örneği
+İÇİNDEKİLER
+
+Sayfa No.
+ÖZET
+ABSTRACT
+TABLOLAR LİSTESİ……………………………………………………… ii
+ŞEKİLLER LİSTESİ……………………………………………………….. iv
+KISALTMALAR…………………………………………………………… v
+GİRİŞ………………………………………………………………………...
+
+1
+
+BİRİNCİ BÖLÜM
+KALKINMA ÜZERİNE LİTERATÜR TARAMASI
+1.1. Fiziki Sermaye………………………………………………………..
+1.2. İnsan Sermayesi………………………………………………………
+1.2.1. Mikro Düzeyde İnsana Yatırım…………………………………..
+1.2.2. Makro Düzeyde İnsana Yatırım…………………………………...
+1.3. Bölgesel Kalkınmanın Önemi…………………………………………
+
+16
+17
+20
+22
+26
+
+İKİNCİ BÖLÜM
+TÜRKİYE’NİN SOSYO EKONOMİK KALKINMA DÜZEYİ
+2.1. Marmara Bölgesi……………………………………………………… 32
+2.2.Ege Bölgesi…………………………………………………………… 35
+ÜÇÜNCÜ BÖLÜM
+KALKINMIŞLIK DÜZEYİNİN TÜRKİYE EKONOMİSİNE
+ETKİLERİ: BİR ZAMAN SERİSİ ANALİZİ
+3.1.Yöntem………………………………………………………………… 37
+SONUÇ………………………………………………………………………. 55
+KAYNAKÇA………………………………………………………………...
+
+63
+
+EKLER
+Ek-1: Zaman Serisi Uygulama Çıktıları…………………………………… 72
+
+41
+
+Ek-6: Tablolar Listesi Örneği
+TABLOLAR LİSTESİ
+
+Sayfa No.
+Tablo 1.
+
+Kent Arşivlerinde Çalışan Personel Sayıları …………...
+
+125
+
+Tablo 2.
+
+Personel Çalışma Süreleri ……………………………...
+
+127
+
+Tablo 3.
+
+Personellerin Çalışma Pozisyonları………………………
+
+128
+
+Tablo 4.
+
+Kurumda Çalışan Arşiv/Müze Uzman Personel
+Sayıları……………………………………………………
+Kurumunuzda ki Yeterli Teknik Personel Durumu…..
+
+129
+132
+
+Tablo 5.
+
+134
+
+Tablo 8
+
+Personelin Müzecilik/Arşivcilik Alanına Hâkimiyet
+Düzeyi…………………………………………………....
+Destek Hizmetleri Personel
+Durumu……………………................................................
+Üst yönetimin Maddi ve İdari Desteği................................
+
+Tablo 9
+
+Kent Arşivlerinin Kullanım Alanları (M²)………………..
+
+140
+
+Tablo 10
+
+Kent Arşivleri Bütçeleri…………………………………..
+
+141
+
+Tablo 11
+
+Kent Arşivleri Materyal Sayıları………………………….
+
+143
+
+Tablo 6.
+Tablo 7
+
+42
+
+136
+138
+
+Ek-7: Şekiller Listesi Örneği
+ŞEKİLLER LİSTESİ
+
+Sayfa No
+Şekil 1.
+
+Çalışan Personelin Eğitim Düzeyi…………………………
+
+126
+
+Şekil 2.
+
+Materyal Türleri……………………………………………
+
+145
+
+Şekil 3.
+
+Materyal Sağlama Yolları………………………………….
+
+147
+
+Şekil 4.
+
+Tasnif Çalışmalarının Yasal Dayanağı…………………….
+
+148
+
+Şekil 5.
+
+Materyallerin Yerleştirilme Biçimi………………………...
+
+150
+
+Şekil 6.
+
+Materyal Erişim Şekli……………………………………...
+
+151
+
+Şekil 7.
+
+Materyal Bilgilerinin Tutuluş Biçimi………………………
+
+152
+
+Şekil 8.
+
+Depolama Alanları…………………………………………
+
+153
+
+Şekil 9.
+
+Isı, Işık Nem Durumu……………………………………...
+
+154
+
+Şekil 10.
+
+Yangına Karşı Alınan Özel Önlemler………………………
+
+156
+
+Şekil 11.
+
+Yangına Su İle Müdahale…………………………………..
+
+157
+
+Şekil 12.
+
+Su Baskını vb. Felaketlere Hazırlık………………………..
+
+158
+
+Şekil 13.
+
+Hırsızlığa Karşı Alınan Önlemler………………………….
+
+159
+
+43
+
+Ek-8: Kısaltmalar Listesi Örneği
+
+KISALTMALAR
+
+ABD:
+
+Amerika Birleşik Devletleri
+
+APİKAM:
+
+Ahmet Piriştina Kent Arşivi ve Müzesi
+
+BS:
+
+British Standards
+
+CHP:
+
+Cumhuriyet Halk Partisi
+
+CILIP:
+
+Chartered Institute of Library and Information Professionals
+
+CULTNAT: Center for Documentation of Cultural and Natural Heritage
+DAGM:
+
+Devlet Arşivleri Genel Müdürlüğü
+
+DOAJ:
+
+Directory of Open Acccess Journals
+
+DP:
+
+Demokrat Parti
+
+ISO:
+
+International Standarts Organization
+
+KİT:
+
+Kamu İktisadi Teşekkülü
+
+LC:
+
+Library of Congress
+
+LISA:
+
+Library, Information Science & Technology
+
+LMA:
+
+Londra Metropolitan Arşivi
+
+m.:
+
+Madde
+
+M.Ö:
+
+Milattan Önce
+
+M.S:
+
+Milattan Sonra
+
+44
+
+Ek 9: IEEE Kaynakça Örneği
+KAYNAKÇA
+Tek Yazarlı Kitap
+[1] J. Baysal 1982, Kütüphanecilik alanında yeni kavramlar araçlar yöntemler,
+İstanbul: İstanbul Üniversitesi Edebiyat Fakültesi, 1982.
+2-6 Arasında Yazarlı Kitap
+[2]
+
+Y. Tonta, Y. Bitirim ve H. Sever, Türkçe arama motorlarında performans
+
+değerlendirme. Ankara: Total Bilişim, 2002.
+Elektronik Kitap
+[3] P. B. Kurland and R. Lerner, Eds., The Founders’ Constitution. Chicago, IL, USA:
+Univ. of Chicago Press, 1987. Accessed: Feb. 28, 2010. [E-book]. Available: http://presspubs.uchicago.edu/founders/
+Kitap İçinde Bölüm
+[4] Y. Yalçın, “Kent arşivleri ve Türkiye”, İsmet Binark Armağanı, İ. Keskin, Ş. N.
+Somer ve N. Oğuz, Ed., İstanbul: Türk Edebiyat Vakfı, 2016, ss. 399-414.
+Tek Yazarlı Makale
+[5] Y. Yalçın, “New approaches in selection and evaluation of electronic resources.”
+Journal of Balkan Libraries Union, vol. 6, no. 1, pp. 12-19, 2019.
+1-6 Yazarlı Makale
+[6] Y. Yalçın and H. İ. Gençbüyür, “Libraries in the light of the concepts of
+administrative ethics and organizational justice: Libraries in İzmir,” Journal of Balkan
+Libraries Union, vol. 3, no. 2, pp. 21-27, 2015.
+[7] B. Sinsoysal, and M. Rasulov, “One method to prove of existence weak solution of a
+mixed problem for 2D parabolic equations”, Partial Differential Equations in Applied
+Mathematics, vol. 1, pp. 1-6, Sep., 2020, doi.org/10.1016/j.padiff.2020.100002, 2020
+
+45
+
+Elektronik Makale
+[8] Y. Yalçın ve D. Atılgan, “Elektronik kaynakların seçimi ve değerlendirilmesi,” Türk
+Kütüphaneciliği,
+
+cilt
+
+23,
+
+sayı
+
+4,
+
+ss.
+
+769-802,
+
+2009.
+
+[Online].
+
+Erişim:
+
+http://www.tk.org.tr/index.php/TK/article/view/535/528
+Bildiriler
+[9] T. Schubert, “Real challenges and solutions for validating system-on-chip high level
+formal verification of next generation microprocessors,” in Proc. 40th Design Automation
+Conf.
+
+(DAC’03),
+
+Jun.
+
+2–6,
+
+2003.
+
+[Online].
+
+Available:
+
+http://www.computer.org/csdl/proceedings/dac/2003/2394/00/2394001-abs.htm
+Yayınlanmış Bildiri
+[10] J. Smith, R. Jones, and K. Trello, “Adaptive filtering in data communications with
+self improved error reference,” In Proc. IEEE International Conference on Wireless
+Communications ’04, 2004, pp. 65-68.
+Tezler
+[11] Y. Yalçın, “Türkiye’de özel arşivlerin yeniden yapılandırılması: Kent arşivi
+modeli,” Doktora tezi, Ankara Üniversitesi, Ankara, 2013.
+[12] F. Jensen, “Electromagnetic near-field far-field correlations,” Ph.D. dissertation,
+Tech. Univ. Denmark, Lyngby, 1970. [Online]. Available: www.tud.ed/jensen/dis
+Web Sayfası
+[13] Doğuş Üniversitesi, “Lisansüstü Eğitim Enstitüsü.” https://lisansustu.dogus.edu.tr/
+(erişim 20 Haziran, 2021).
+[14] J. Smith and J. Doe. “Obama inaugurated as President.” CNN.com.
+http://www.cnn.com/POLITICS/01/21/obama_inaugurated/index.html (accessed Feb. 1,
+2009).
+Patent / Standart
+[15] T. Baykara, A. Demirural, C. Yazacak, O. Zeyrek, “Bimodal-Polimodal Dağılımlı
+Seramik Esaslı Küresel Zırh”, TPE başvuru no: 2017/07275 ve Evrak No:2017-GE196687.
+
+46
+
+Ek 10: APA Kaynakça Örneği
+KAYNAKÇA
+Tek Yazarlı Kitap
+Baysal, J. (1982). Kütüphanecilik alanında yeni kavramlar araçlar yöntemler. İstanbul:
+İstanbul Üniversitesi Edebiyat Fakültesi.
+1-3 Yazarlı Kitap
+Tonta, Y., Bitirim, Y. ve Sever, H. (2002). Türkçe arama motorlarında performans
+değerlendirme. Ankara: Total Bilişim.
+Editörlü Kitap
+Yalçın, Y, Burgin, D. E. ve Aydınoğlu, N. (2015). Cumhuriyet’ten günümüze İzmir’in
+kadın siyasetçileri (Erciyeş, Gülnur, ed.). İzmir: İzmir Üniversitesi.
+Kitap İçinde Bölüm
+Yalçın, Y. (2016). Kent Arşivleri ve Türkiye. İ. Keskin, Ş.N. Somer ve N. Oğuz (Ed.),
+İsmet Binark armağanı (s. 399-414) içinde. İstanbul: Türk Edebiyat Vakfı.
+Basılı Kitabın Elektronik Sürümü
+Tonta, Y., Bitirim, Y. ve Sever, H. (2002). Türkçe arama motorlarında performans
+değerlendirme. Ankara: Total Bilişim. [Adobe Acrobat Reader sürümü]. Erişim
+adresi:
+
+http://yunus.hacettepe.edu.tr/~tonta/yayinlar/tonta-bitirim-sever-arama-
+
+motorlari.pdf
+Danışma Kaynağı
+Hançerlioğlu, O. (2000). Felsefe sözlüğü (Geliştirilmiş ve genişletilmiş yeni basım).
+İstanbul: Remzi Kitabevi.
+Tek Yazarlı Makale
+Yalçın, Y.(2019). New approaches in selection and evaluation of electronic resources.
+Journal of Balkan Libraries Union, 6(1), 12-19.
+
+47
+
+1-3 Yazarlı Makale
+Yalçın, Y. and Gençbüyür, H.İ. (2015). Libraries in the light of the concepts of
+administrative ethics and organizational justice: Libraries in İzmir. Journal of Balkan
+Libraries Union, 3(2), 21-27.
+8 ve Üzeri Yazarlı Makale
+Erkan, S., Tuğrul, B., Üstün, E., Akman, B., Şendoğdu, M., Kargı, E. ve diğerleri. (2003).
+Matematik öğretmenliği öğrencileri profil araştırması. Hacettepe Üniversitesi Eğitim
+Fakültesi Dergisi, 23 (1), 58-65.
+Popüler Dergi Yazısı
+Semercioğlu, C. (2015, Haziran). Sıradanlığın rayihası. Sabit Fikir, 52, 38-39
+Resmi Gazete
+Lisansüstü Eğitim ve Öğretim Yönetmeliği. (2016, 20 Nisan). Resmi Gazete (Sayı:
+29690). Erişim adresi: http://www.resmigazete.gov.tr/eskiler/2016/04/20160420-16.htm
+Kitap Formatında Yayınlanan Bildiriler
+Yalçın, Y. ve Gençbüyür, H. İ. (2016). Yerel kültürel mirasın semantik ortamda sunumu:
+Kavramsal model önerisi. G. Güneş, N. Özel ve T. Çakmak (Ed.). ÜNAK 201
+Konferansı: Bilgi Sistemleri Mimariler ve Teknolojiler, 19-21 Eylül 2013, bildiri
+kitabı (s. 186- 191) içinde. İstanbul: Marmara Üniversitesi.
+Tezler
+Yalçın, Y. (2013). Türkiye’de özel arşivlerin yeniden yapılandırılması: Kent arşivi
+modeli.
+
+(Doktora
+
+tezi).
+
+Erişim
+
+adresi:
+
+http://bbytezarsivi.hacettepe.edu.tr/jspui/handle/2062/401
+Web Sayfası
+Doğuş Üniversitesi. (2021). Lisansüstü Eğitim Enstitüsü. Erişim adresi:
+https://lisansustu.dogus.edu.tr/
+Sosyal Medya
+Okul Kütüphanecileri. (2015, 24 Haziran). Türkiye Adresli Tezlerden Belge Sağlama
+Hizmeti Verilmeye Başlanmıştır. TÜBİTAK ULAKBİM CABİM bünyesinde
+
+48
+
+yürütülen Belge Sağlama çalışmaları kapsamında, YÖK Tez Merkezi Veri Tabanında
+[Facebook
+
+durum
+
+güncellemesi].
+
+Erişim
+
+adresi:
+
+https://www.facebook.com/okulkutuphanecileridernegi/posts/85098746162323
+DOİ Numarası Olan Elektronik Kaynak
+Chan, H. F., Guillot, M., Page, L. ve Torgler, B. (2015). The inner quality of an article:
+Will time tell?. Scientometrics, 104, s. 19-41. doi:10.1007/s11192-015-1581-y2
+DOİ Numarası Olmayan Elektronik Kaynak
+Al, U. ve Soydal, İ. (2014). Kütüphan-e Türkiye Projesi: Halk kütüphanesi kullanım
+araştırması.
+
+Türk
+
+Kütüphaneciliği,
+
+http://www.tk.org.tr/index.php/TK
+
+49
+
+28,
+
+288-307.
+
+Erişim
+
+adresi:
+
+Ek-11: Özgeçmiş Örneği
+
+ÖZGEÇMİŞ
+
+20 Nisan 1977 tarihi, İstanbul İli Fatih ilçesi doğumluyum. İlk, Orta ve Liseyi yine aynı
+ilçede tamamladıktan sonra, Doğuş Üniversitesi, İktisadi ve İdari Bilimler Fakültesi,
+İşletme Bölümüne kaydoldum. Bu bölümden 2001 yılında mezun olduktan sonra, askerlik
+görevimi, Kayseri Hava İndirme Birliği’nde tamamladım. 2003 yılından beri, özel bir
+şirkette mali danışmanlık görevini sürdürmekteyim. 2004 yılında da, Doğuş Üniversitesi,
+İşletme Anabilim Dalında yüksek lisans eğitimine başladım.
+Özel ilgi alanlarım, işletme yönetimi, mali tablolar analizi, stratejik karar verme süreçleri
+ve karar verme süreçlerinde istatistiksel analizlerdir.
+Yabancı dilim İngilizce olup, evli ve bir çocuk babasıyım.
+
+Aday:……………………..
+
+50
+
+Ek-12: Tezlerin Yükseköğretim Kurumuna İletilmesi
+
+YÜKSEKÖĞRETİM KURULU
+ULUSAL TEZ MERKEZİ
+
+TEZLERİN HAZIRLANMASINDA VE TESLİMİNDE DİKKAT EDİLECEK
+HUSUSLAR
+
+1- Tezler kompakt disk ortamında elektronik olarak teslim edilecektir. Kağıt veya disket
+ortamında tez kesinlikle kabul edilmeyecektir.
+2- Tezlerin başlıkları ve özet (abstrakt) sayfaları, Tez Veri Tabanının taranabilir
+alanlarına yüklenmektedir. Bu nedenle bu gibi metin alanlarında, italik yazı tipi, tablo,
+şekil, grafik, kimyasal veya matematiksel formüller, semboller, alt veya üst simge
+(subscript, superscript), Yunan harfleri veya diğer standart olmayan simge veya
+karakterler kullanılmamalıdır.
+3- Özetler, biri Türkçe olmak üzere iki dilde 250’şer kelimeyi geçmeyecek şekilde
+hazırlanmalıdır.
+4- Tezler, tezin teslim edildiği enstitü ve üniversite adının, tez adının, tez yazarının adının,
+tez savunma tarihinin, tez danışmanın ve diğer jüri üyelerinin isimlerini içeren “Onay
+Sayfası”nı mutlaka içermelidir.
+5- “Tez Veri Giriş Formu”. Bu formu doldurabilmek için öncelikle sisteme üye olunması
+gerekmektedir. Tez yazarı tarafından “üye oturumu”ndan giriş yapılarak “tez veri giriş
+formu” doldurulmalı ve imzalanarak enstitüsüne teslim edilmelidir.
+6- Tezlerin gönderilmesinden; Üniversitelerde Enstitü Müdürü ve Tıp Fakültesi Dekanı,
+Sağlık Bakanlığına bağlı Eğitim ve Araştırma Hastanelerinde ise Başhekimleri
+sorumludur. Enstitüye teslim edilecek tez tutanağının cd olarak teslim edilenin 1 adetinde
+KVKK gereği, Kişisel veriler (ıslak imza ve tez yazarına ait email,telefon vb.) yer
+almamalıdır.
+
+51
+
+7- Tezler, YÖK Ulusal Tez Merkezi ’ne mutlaka tezi onaylayan merci (Enstitü, Fakülte,
+Eğitim Hastanesi) tarafından ve mutlaka tez adı, yazar adı ve tez türü (yüksek lisans,
+doktora vs.) bilgilerinin bulunduğu listeleriyle birlikte akademik yıl içerisinde toplu
+olarak gönderilmelidir.
+8- Aşağıda yer alan koşullara uygun olarak hazırlanmış kompakt diskler (CD) tezin
+başlığı, yazar adı, yükseköğretim kurumu adı, enstitü adı, tıpta uzmanlık tezleri için
+fakülte veya eğitim hastanesi adını içerecek şekilde etiketlenerek darbeye dayanıklı bir
+CD kutusuna konulmalı, Tez Onay Sayfası ve Tez Veri Giriş Formu ile birlikte
+gönderilmelidir.
+
+52
+
+Ek-13: Kompakt Disklerin Hazırlanması
+1- Tezin tam metni tek bir PDF dosyası olarak hazırlanacaktır. Word dosyalarının pdf
+dosyalarına dönüştürülmesi için PDF hazırlama sayfasında bulunan bağlantılardan
+yararlanılabilir. Metin formatı dışında ek içeren karma tezler için açıklamalar Madde 7’de
+yer almaktadır.
+2- Hazırlanan PDF dosyaları tezin enstitü veya dekanlık tarafından onaylanan kopyası ile
+aynı olacaktır. Tez üzerinde Yükseköğretim Kurulu tarafından hiçbir değişiklik
+yapılmayacağı için, tezin bilgisayar ekranında görüntülendiğinde asıl nüshası ile aynı
+olması ile ilgili her türlü sorumluluk yazara aittir. Sayfaların numaralandırılması, tezin
+ana metni içinde yer alan resim, şekil, grafik, tablo gibi öğelerin yerlerinin basılı tez ile
+özdeş olması yazar tarafından sağlanmalıdır.
+3- Dosyalar sıkıştırılmamış ve şifresiz olacaktır.
+4- Dosyalar isimlendirilirken Türkçe karakter kullanılmayacaktır.
+5- Dosyalara isim verirken yazar adı ve soyadının sonuna hangi bilgiyi içerdiği
+eklenecektir.
+Örnek:
+ad_soyadı_tez.pdf
+6- Metin formatındaki veya çoğaltma (fotokopi) ile hazırlanmış olan tez ekleri tezin tam
+metninin bulunduğu pdf dosyası içinde yer alacaktır. Bunun için tarayıcı veya dijital
+fotokopi makineleri kullanılarak belgeler pdf formatına dönüştürülecektir.
+7- Karma tezler: Tez, yalnızca metin dosyasından oluşmuyorsa, resim, harita, bilgisayar
+programları, görüntü veya ses kayıtları da kullanılmış ise bu durum “Tez Veri Giriş
+Formu”nda dosya adları da verilerek belirtilmelidir. Resim, görüntü ve ses kayıtları için
+tercih edilen formatlar aşağıda belirtilmiştir. Farklı bir program kullanılmış ise bunun
+okuyucuların erişimine izin verecek şekilde lisanslı olarak tezle birlikte CD’de yer alması
+gerekmektedir.
+
+53
+
+İstenen Formatlar:
+i-
+
+Resim Formatları
+
+Resim dosyaları aşağıda verilen formatlardan biriyle hazırlanacaktır.
+GIF (.gif)
+PDF (.pdf)
+TIFF (.tiff)
+JPEG (.jpeg)
+ii- Görüntü Formatları
+MPEG (.mpg)
+Quick Time – Apple (.mov)
+Audio Video Interleaved – Microsoft (.avi)
+iii- Ses Formatları
+Wav (.wav)
+MIDI (.midi)
+MP3 (.mp3)
+
+54
+
+SIKÇA SORULAN SORULAR
+- Proje veya tez yazımı sırasında hangi metin düzenleme yazılımlarını tercih
+etmeliyim?
+- En yaygın kullanılan yazılım Microsoft Office programları olup, bu program yerine
+Libre Office, Zoho Office veya benzeri programlar da kullanılabilir. Macintosh
+kullanıcıları için iWork programı tercih edilebilir.
+- Tezimi en erken ne zaman teslim edip savunmaya girebilirim?
+- Yüksek lisans tezleri en erken tez yılının ikinci döneminde enstitümüze teslim edilebilir.
+Doktora ve sanatta yeterlik tezleri ise en erken olarak öğrencilerimizin bir adet konu
+belirleme ve en az üç adet başarılı doktora/sanatta yeterlik izleme toplantısından sonra
+enstitümüze teslim edilip savunma için tarih belirlenebilir. Tezler enstitümüze teslim
+edildikten sonra en geç 1 ay içerisinde jüri önünde savunulmalıdır. Tüm savunmalar
+Çengelköy Yerleşkemizde gerçekleştirilmektedir. Öğrencilerimizin tüm jüri üyeleri ile
+önceden görüşüp savunma tarihini kendileri belirlemeleri gerekmektedir. Savunma gün
+ve saatini enstitümüze en az iki gün öncesinden haber verilmesi durumunda uygun bir
+sınıf enstitü tarafından öğrencilerimize temin edilecektir.
+- Tezin şekil şartlarından ben mi sorumluyum? Yoksa bu konuda profesyonel
+yardım alabilir miyim?
+- Öğrencilerimiz, kılavuzda belirtilen tüm şekil şartlarından kendileri sorumludurlar.
+Proje ve tez yazma sürecinin doğal öğrenme akışı içerisinde bu tip yeteneklerin de
+gelişmesi gerektiği için temel amaç öğrencilerimizin herkesten bağımsız olarak bilimsel
+eser üretebilme ve süreci yönetebilme becerilerinin geliştirilmesini sağlamaktır. Bununla
+birlikte, ileri düzey istatistik analizleri gerektiren tezlerde ve matematiksel ifadelerin
+metin içerisinde aktarımında zorluk yaşanan çalışmalarda, danışman öğretim üyesinin
+bilgisi dâhilinde olması koşuluyla dışarıdan profesyonel destek alınabilir. Buradaki esas
+nokta, alınan desteğin süreç içerisinde danışman öğretim üyesi ile şeffaf bir şekilde
+paylaşılmasıdır.
+
+55
+
+- Tez savunması günü için neler yapmalıyım?
+- Danışman öğretim üyesinin önerileri haricinde, tez savunması için öncesinde enstitüden
+müsait sınıf öğrenmek ve sınav tutanaklarını teslim almak için sınav saatinden en az 1
+saat erken gelinmelidir. Toplamda 20 dakikayı geçmeyecek bir sunum hazırlanmalı,
+sunum içerisinde teorik kavramlardan ziyade tezle ilgili çarpıcı sonuçlar, istatistiki
+analizler ve hipotezler sunulmalıdır. Sunum süresi çok fazla olduğunda veya önceden
+belirtilen süre aşıldığında, tezin niteliğinin düşük olduğu ve yeterince hazırlık yapılmadığı
+izlenimi uyandırabilir. Benzer şekilde çok kısa ve özensiz olması da benzer bir etki
+oluşturacaktır. Sunumda yazılar ile birlikte uygun görseller de kullanılmalı ve bir ekranda
+okuyucuyu yazıya boğmadan çarpıcı bilgiler vererek sunum gerçekleştirilmelidir. Sunum
+saatinden önce mutlaka sunum yapılacak sınıfın bilgisayarı ve projeksiyon cihazı kontrol
+edilmelidir.
+- Tez savunmasında jüri hangi kararları alabilir?
+- Bir yüksek lisans ve doktora tez savunmasının olası üç farklı sonucu bulunmaktadır.
+Kabul durumunda öğrencimiz başarılı bulunmuştur. Kendisine iletilen düzeltme listesi ile
+birlikte tezini tamamlayıp bir ay içerisinde tezini kılavuzda belirtilen formatta enstitüye
+teslim eder. Yüksek lisansta tezi hakkında düzeltme kararı verilen öğrenci en geç üç ay
+içinde düzeltmeleri yapılan tezi aynı jüri önünde yeniden savunur. Bu savunma sonunda
+da başarısız bulunarak tezi kabul edilmeyen öğrencinin Üniversite ile ilişiği kesilir.
+Yönetmeliğe bağlı olarak, red alan öğrencilerimizin eksik ders ve diğer yükümlülüklerini,
+mali ödemelerini de tamamlamak koşulu ile tezsiz yüksek lisans programlarına geçme
+hakkı bulunmaktadır
+Doktora tezi hakkında düzeltme kararı verilen öğrenci en geç altı ay içinde gerekli
+düzeltmeleri yaparak tezini aynı jüri önünde yeniden savunur. Bu savunmada da başarısız
+bulunan öğrencinin Üniversite ile ilişiği kesilir. Lisans derecesi ile doktoraya kabul
+edilmiş olanlardan tezde başarılı olamayanlar için talepleri halinde 39 uncu maddenin
+dördüncü fıkrasına göre tezsiz yüksek lisans diploması verilir
+
+56
+
+Yönetmeliğe bağlı olarak, red alan öğrencilerimizin eksik ders ve diğer yükümlülüklerini,
+mali ödemelerini de tamamlamak koşulu ile tezsiz yüksek lisans programlarına geçme
+hakkı bulunmaktadır.
+- Proje / Tezlerde intihale rastlanması durumunda ne olur?
+-Tez / Proje tesliminden önce intihal programları aracılığı ile intihal raporu alınır.
+Rapordaki verilerde gerçek bir intihalin tespiti halinde gerekçesi ile birlikte karar
+verilmek üzere tez enstitü yönetim kuruluna gönderilir.
+- Enstitüye teslim edilen tüm proje ve tezler kontrol ediliyor mu?
+-Lisansüstü Eğitim Enstitümüzde tüm proje ve tezler kapsamlı bir kontrolden
+geçirilmektedir. Şekil ve kılavuz şartlarının yanı sıra, çeşitli elektronik intihal tespit
+programları ile kontroller sağlanmakta, ek olarak da manuel kaynak kontrolü
+yapılmaktadır. Proje ve tezlerin kontrolü rastgele örnekler üzerinden değil, tek tek her bir
+eser üzerinden yapılmaktadır.
+- Danışman hocamıza ulaşma ve iletişim kurma konusunda sıkıntı yaşarsak ne
+yapmalıyız?
+- Her öğretim üyemizin ofis kapılarında dersleri ve öğrencileri ayırdıkları zaman
+dilimlerini gösteren bilgilendirme levhaları bulunmaktadır. Bu çerçevede, öğretim
+üyelerimizden randevu alabilir, görüşmeye gidebilirsiniz. Ayrıca düzenli olarak mail ile
+iletişim kurmanızda da tavsiye edilmektedir. Özellikle akademik çalışmanızı belirli
+periyodlarla danışman hocanıza göndermeniz ve ilerlemenizi paylaşmanız mezuniyet
+sürecinde size fayda sağlayacaktır.
+- Kılavuzda Teşekkür ve Önsöz bölümü neden yok?
+- Akademik çalışmalarda yer alan teşekkür veya önsöz gibi bölümler, eserlerin akademik
+çerçeveden çıkmasına ve informal bir yapıya bürünmesine sebep olmaktadır. Bu sebeple,
+bu iki bölümü kullanmak isteyen öğrencilerimiz proje ve tez baskısı alırken kendilerinde
+kalacak kopyada bu bölümleri kullanabilirler. Ancak enstitüye teslim edilen ve YÖK’e
+gönderilen kopyada Teşekkür ve Önsöz bölümlerinin yer almaması gerekmektedir.
+57
+
+- Tezimi Ulusal Tez Merkezi’nde kısıtlayabilir miyim?
+- Başarılı bulunan ve mezuniyet için enstitüye teslim edilen tezler, yayınlanması için
+YÖK Ulusal Tez Merkezi’ne yüklenmelidir. Eğer tezler bilimsel kuruluşlar tarafından
+resmi olarak desteklenen bir patent hakkı içermiyor ise en fazla 6 ay boyunca
+kısıtlanabilir. Bu kısıtın uygulanabilmesi için öğrencilerimizin hem danışman öğretim
+üyelerinden, hem de Anabilim Dalı Başkanlıklarından, tezin 6 ay süreyle kısıtlanması için
+ıslak imzalı dilekçe ile uygunluk almaları gerekmektedir. Bu dilekçelerin enstitüye
+teslimini takiben YÖK Ulusal Tez Merkezi Enstitümüz tarafından bilgilendirilecektir.
+- Benzerlik Oranı için Enstitüde kullanılan sınır değerler nedir?
+- Projeler için üst sınır %25, tezler için ise %20 olarak belirlenmiştir (kaynakça bölümü
+hariç) . Buradaki en önemli husus, benzerlik oranı ile intihal kavramlarının birbiri ile
+karıştırılmaması gerektiğidir. Benzerlik oranı bir çalışmadaki bire bir alıntıların kümülatif
+miktarını temsil etmektedir. İntihal ise akademik kaynaklardan alınan metinlerin yazar
+tarafından kendi yazılmış gibi gösterilmesi veya bilinçli olarak hatalı atıfta bulunulması
+durumudur.
+
+58
+
+
